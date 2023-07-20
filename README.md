@@ -280,14 +280,14 @@ Comments:<br>
 Enable a full Continuous Delivery lifecycle to open/update issues automatically from the Continue Integration pipeline. These are provided as an example:
 <br><br>
 Resources:<br>
-Jenkins:
-https://wiki.jenkins.io/display/JENKINS/Jira+Issue+Updater+Plugin
-Atlassian Jira:
-https://developer.atlassian.com/server/jira/platform/jira-rest-api-examples/
-https://developer.atlassian.com/server/jira/platform/jira-rest-api-example-create-issue-7897248/
-Azure DevOps:
-It is understood that in the case of Azure DevOps, the build pipeline failure can be configured to create issues automatically in the Azure DevOps Kanban wall.
-https://docs.microsoft.com/en-us/rest/api/azure/devops/?view=azure-devops-rest-5.0
+Jenkins: <br>
+https://wiki.jenkins.io/display/JENKINS/Jira+Issue+Updater+Plugin <br>
+Atlassian Jira: <br>
+https://developer.atlassian.com/server/jira/platform/jira-rest-api-examples/ <br>
+https://developer.atlassian.com/server/jira/platform/jira-rest-api-example-create-issue-7897248/ <br>
+Azure DevOps: <br>
+It is understood that in the case of Azure DevOps, the build pipeline failure can be configured to create issues automatically in the Azure DevOps Kanban wall. <br>
+https://docs.microsoft.com/en-us/rest/api/azure/devops/?view=azure-devops-rest-5.0 <br>
 See the “Work Item Tracking” section.
 <br>
 <br>
@@ -298,19 +298,18 @@ Category:<br>
 Container scanning
 <br><br>
 Comments:<br>
-SCAP stand for Security Content Automation Protocol (from the National Institute of Standards and Technology – NIST –)
-It is a tool that provides built-in support for this industry-standard, open-source compliance assessment tool that enables users to quickly add compliance scanning and automated report generation to their pipelines. OpenSCAP executes CIS Benchmarks against hardened images. The benchmarks request different levels of hardening for different types of industries. The benchmark applies to open-sourced software and commercial software images also. They extend to Operating Systems, Server Software, Cloud Providers, Mobile Devices, Network Devices, Desktop Software Multi-Function Print Devices.	
+SCAP stand for Security Content Automation Protocol (from the National Institute of Standards and Technology – NIST –). It is a tool that provides built-in support for this industry-standard, open-source compliance assessment tool that enables users to quickly add compliance scanning and automated report generation to their pipelines. OpenSCAP executes CIS Benchmarks against hardened images. The benchmarks request different levels of hardening for different types of industries. The benchmark applies to open-sourced software and commercial software images also. They extend to Operating Systems, Server Software, Cloud Providers, Mobile Devices, Network Devices, Desktop Software Multi-Function Print Devices.	
 <br><br>
 Resources:<br>
-OpenSCAP 
-https://www.open-scap.org/tools/ 
-OpenSCAP Github
-https://github.com/OpenSCAP/openscap 
-Center for Internet Security (CIS) – Benchmarks
-https://www.cisecurity.org/cis-benchmarks/ 
-Free Hardened Images CIS
-https://www.cisecurity.org/cis-hardened-image-list/ 
-Read more about Hardening images
+OpenSCAP  <br>
+https://www.open-scap.org/tools/  <br>
+OpenSCAP Github <br>
+https://github.com/OpenSCAP/openscap  <br>
+Center for Internet Security (CIS) – Benchmarks <br>
+https://www.cisecurity.org/cis-benchmarks/  <br>
+Free Hardened Images CIS <br>
+https://www.cisecurity.org/cis-hardened-image-list/  <br>
+Read more about Hardening images <br>
 https://medium.com/swlh/hardening-images-on-cloud-b4269944ee6c 
 <br>
 <br>
@@ -432,7 +431,7 @@ Package Hunter is a tool to analyze a program's dependencies for malicious code 
 The cloud-native runtime security project is the de facto Kubernetes threat detection engine. GitLab integrates this capability into their Pipeline offering as ‘Package Hunter’.
 <br><br>
 Resources:<br>
-https://falco.org/
+https://falco.org/ <br>
 https://about.gitlab.com/blog/2021/07/23/announcing-package-hunter/
 <br>
 <br>
@@ -460,14 +459,14 @@ Category:<br>
 Business Continuity	
 <br><br>
 Comments:<br> 
-This is fundamental to reproducing an already deployed environment if it needs to be reconstructed. Keep the packages and binaries that have been deployed. 
+This is fundamental to reproducing an already deployed environment if it needs to be reconstructed. Keeps the packages and binaries that have been deployed. 
 <br><br>
 Resources:<br>
-https://azure.microsoft.com/en-au/services/devops/artifacts/
-https://www.sonatype.com/nexus-repository-sonatype
-https://inedo.com/proget
-Others:
-https://binary-repositories-comparison.github.io/
+https://azure.microsoft.com/en-au/services/devops/artifacts/ <br>
+https://www.sonatype.com/nexus-repository-sonatype <br>
+https://inedo.com/proget <br>
+Others: <br>
+https://binary-repositories-comparison.github.io/ <br>
 https://xebialabs.com/the-ultimate-devops-tool-chest/repository-management/
 <br>
 <br>
@@ -481,11 +480,11 @@ Comments:<br>
 Pact is a code-first tool for testing HTTP and message integrations using contract tests. Contract tests assert that inter-application messages conform to a shared understanding documented in a contract. Without contract testing, the only way to ensure that applications will work correctly is by using expensive and brittle integration tests.	
 <br><br>
 Resources:<br>
-https://github.com/pact-foundation
-https://docs.pact.io/
-Kafka integration automated regression test	Regression test	Automate Integration, Unit and End to End testing programmatically. 	https://kafka.apache.org/20/documentation/streams/developer-guide/testing.html
-https://dzone.com/articles/a-quick-and-practical-example-of-kafka-testing
-https://dzone.com/articles/quick-overview-of-concepts-for-kafka-testing
+https://github.com/pact-foundation <br>
+https://docs.pact.io/ <br>
+Kafka integration automated regression test	Regression test	Automate Integration, Unit and End to End testing programmatically.  <br>	https://kafka.apache.org/20/documentation/streams/developer-guide/testing.html <br>
+https://dzone.com/articles/a-quick-and-practical-example-of-kafka-testing <br>
+https://dzone.com/articles/quick-overview-of-concepts-for-kafka-testing <br>
 https://platform.deloitte.com.au/articles/automate-kafka-testing
 <br>
 <br>
@@ -496,10 +495,10 @@ Category:<br>
 Regression test
 <br><br>
 Comments:<br> 
-Kafka integration automated regression test. Regression test. Automate Integration, Unit and End to End testing programmatically. 	
-This capability may be in the same group as the one provided by:
-•	Kafka automates testing
-•	Karate end-to-end testing tool
+Kafka integration automated regression test. Regression test. Automate Integration, Unit and End to End testing programmatically. 	 <br>
+This capability may be in the same group as the one provided by: <br>
+•	Kafka automates testing <br>
+•	Karate end-to-end testing tool 
 <br><br>
 Resources:<br>
 https://github.com/intuit/karate/ 
@@ -515,19 +514,19 @@ Comments:<br>
 Regression test	Automate Publisher and subscriber regression testing	
 <br><br>
 Resources:<br>
-Microcks
-https://microcks.io/blog/apache-kafka-mocking-testing/
-AsyncAPI integration automated regression test	
-Regression test	Automate Publisher and subscriber regression testing	Microcks:
-https://microcks.io/documentation/using/asyncapi/
-UI Test & Regression test	Regression test	Automate UI regression test programmatically.
-This type of testing is functional.
-Tosca: https://documentation.tricentis.com/en/1020/content/continuous_integration/concept.htm
-Microsoft: https://docs.microsoft.com/en-us/azure/devops/pipelines/languages/javascript?view=azure-devops 
-Open-source options 
-Selenium 
-https://docs.microsoft.com/en-us/azure/devops/pipelines/test/continuous-test-selenium?view=azure-devops
-https://junit.org/junit4/ 
+Microcks <br>
+https://microcks.io/blog/apache-kafka-mocking-testing/ <br>
+AsyncAPI integration automated regression test	 <br>
+Regression test	Automate Publisher and subscriber regression testing	Microcks: <br>
+https://microcks.io/documentation/using/asyncapi/ <br>
+UI Test & Regression test	Regression test	Automate UI regression test programmatically. <br>
+This type of testing is functional. <br>
+Tosca: https://documentation.tricentis.com/en/1020/content/continuous_integration/concept.htm <br>
+Microsoft: https://docs.microsoft.com/en-us/azure/devops/pipelines/languages/javascript?view=azure-devops  <br>
+Open-source options  <br>
+Selenium  <br>
+https://docs.microsoft.com/en-us/azure/devops/pipelines/test/continuous-test-selenium?view=azure-devops <br>
+https://junit.org/junit4/  <br>
 https://site.mockito.org/
 <br>
 <br>
@@ -538,18 +537,16 @@ Category
 Regression test	Testcontainers 
 <br><br>
 Comments:<br> 
-Useful for creating a reliable environment for running regression tests.
-It creates containerized instances of any database (MySQL, PostgreSQL, Oracle, etc) with data. So that it is possible to run regression tests starting with a known DB state. 
-This concept can also be applied to message queues, caching services, vault secret management, etc.	
+Useful for creating a reliable environment for running regression tests. It creates containerized instances of any database (MySQL, PostgreSQL, Oracle, etc) with data. So that it is possible to run regression tests starting with a known DB state.  This concept can also be applied to message queues, caching services, vault secret management, etc.	
 <br><br>
 Resources:<br>
-Testcontainers
-https://www.testcontainers.org/ 
-MS SQL
-https://www.testcontainers.org/modules/databases/mssqlserver/
-Kafka
-https://www.testcontainers.org/modules/kafka/ 
-Selenium
+Testcontainers <br>
+https://www.testcontainers.org/  <br>
+MS SQL <br>
+https://www.testcontainers.org/modules/databases/mssqlserver/ <br>
+Kafka <br>
+https://www.testcontainers.org/modules/kafka/  <br>
+Selenium <br>
 https://www.testcontainers.org/modules/webdriver_containers/ 
 <br>
 <br>
@@ -579,13 +576,13 @@ Comments:<br>
 Load testing an application generally means measuring performance with a specific predetermined amount of load. This is a good way to ensure you have yet to introduce a change that has impacted your overall application. For example, a 20 per cent increase in response time probably doesn’t generate a monitoring alert, but it may be killing your business.	
 <br><br>
 Resources:<br>
-https://www.microfocus.com/en-us/products/loadrunner-load-testing/overview
-https://blazemeter.com/
-Open Source alternatives:
-http://jmeter.apache.org/
-https://gatling.io/
-https://locust.io/
-Cloud-based:
+https://www.microfocus.com/en-us/products/loadrunner-load-testing/overview <br>
+https://blazemeter.com/ <br>
+Open Source alternatives: <br>
+http://jmeter.apache.org/ <br> 
+https://gatling.io/ <br>
+https://locust.io/ <br>
+Cloud-based: <br>
 https://flood.io/
 <br>
 <br>
@@ -626,7 +623,7 @@ Category:<br>
 Quality Assurance	
 <br><br>
 Comments:<br> 
-This test is done by suddenly increasing the load on a system and seeing what happens. This is the type of testing that can be very important when the infrastructure is using dynamic containers. Same as the Load Test tools list
+This test is done by suddenly increasing the load on a system and seeing what happens. This is the type of testing that can be very important when the infrastructure is using dynamic containers. Same as the Load Test tools list.
 <br>
 <br>
 <br>
@@ -667,15 +664,15 @@ Security.
 Comments:<br> OWASP ZAP is a free penetration testing tool. Web Application Vulnerability Scanners are automated tools that scan web applications from the outside to look for security vulnerabilities such as Cross-site scripting, SQL Injection, Command Injection, Path Traversal and insecure server configuration. This tool category is frequently called Dynamic Application Security Testing (DAST) Tools.	
 <br><br>
 Resources:<br>
-OWASP Zed Attack Proxy Project - PenTest
-https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project
-How to add continuous security validation to your CI/CD pipeline
-https://docs.microsoft.com/en-us/azure/devops/migrate/security-validation-cicd-pipeline?view=azure-devops
-This is an example of how to integrate ZAP into the Jenkins pipeline
-https://www.we45.com/blog/how-to-integrate-zap-into-jenkins-ci-pipeline-we45-blog
-This capability may be in the same group as the one provided by:
-•	ImmuniWeb
-•	ZAP (OWASP)
+OWASP Zed Attack Proxy Project - PenTest <br>
+https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project <br>
+How to add continuous security validation to your CI/CD pipeline <br>
+https://docs.microsoft.com/en-us/azure/devops/migrate/security-validation-cicd-pipeline?view=azure-devops <br>
+This is an example of how to integrate ZAP into the Jenkins pipeline <br>
+https://www.we45.com/blog/how-to-integrate-zap-into-jenkins-ci-pipeline-we45-blog <br>
+This capability may be in the same group as the one provided by: <br>
+•	ImmuniWeb <br>
+•	ZAP (OWASP) <br>
 •	Burp Suite
 <br>
 <br>
@@ -700,7 +697,7 @@ Category:<br>
 Penetration test. Security.	
 <br><br>
 Comments:<br> 
-PentestGPT is a penetration testing tool empowered by ChatGPT. It is designed to automate the penetration testing process. It is built on ChatGPT and operates in an interactive mode to guide penetration testers in overall progress and specific operations.	
+PentestGPT is a penetration testing tool empowered by ChatGPT. It is designed to automate the penetration testing process. It is built on ChatGPT and operates in an interactive mode to guide penetration testers in overall progress and specific operations.	 <br>
 This capability may be in the same group as the one provided by:
 •	ImmuniWeb
 •	ZAP (OWASP)
@@ -717,7 +714,7 @@ Category:<br>
 Quality Assurance. Security	 
 <br><br>
 Comments:<br> 
-Burp Suite is a penetration testing tool. It is the preferred tool by Apple Store to test Applications before they are listed in the Apple Store.	
+Burp Suite is a penetration testing tool. It is the preferred tool by Apple Store to test Applications before they are listed in the Apple Store.	 <br>
 This capability may be in the same group as the one provided by:
 •	ImmuniWeb
 •	ZAP (OWASP)
@@ -741,8 +738,8 @@ ImmuniWeb
 •	Burp Suite
 <br><br>
 Resources:<br>
-Free and paid API versions are available.	 
-https://www.immuniweb.com/websec/#api
+Free and paid API versions are available.	  <br>
+https://www.immuniweb.com/websec/#api <br>
 This capability may be in the same group as the one provided by:
 <br>
 <br>
@@ -783,7 +780,7 @@ Comments:<br>
 It scans cloud infrastructure configurations. IaaC security validation. Static configuration scanning. It finds misconfigurations before they are deployed. Platform and cloud-independent tool.
 <br><br>
 Resources:<br>
-https://cloudcustodian.io/
+https://cloudcustodian.io/ <br>
 https://cloudcustodian.io/docs/azure/resources/index.html
 <br>
 <br>
@@ -800,11 +797,11 @@ This capability may be in the same group as the one provided by:
 •	Microsoft Security Analysis
 <br><br>
 Resources:<br>
-Secure DevOps Kit for Azure
-https://azsk.azurewebsites.net/
-Getting started with the Secure DevOps Kit for Azure (AzSK)
-https://azure.microsoft.com/en-au/resources/videos/azure-friday-getting-started-with-the-secure-devops-kit-for-azure-azsk/
-azsdk/azsdk-docs
+Secure DevOps Kit for Azure <br>
+https://azsk.azurewebsites.net/ <br>
+Getting started with the Secure DevOps Kit for Azure (AzSK) <br>
+https://azure.microsoft.com/en-au/resources/videos/azure-friday-getting-started-with-the-secure-devops-kit-for-azure-azsk/ <br>
+azsdk/azsdk-docs <br>
 https://github.com/azsdk/azsdk-docs
 <br>
 <br>
@@ -814,7 +811,7 @@ https://github.com/azsdk/azsdk-docs
 Category:<br>	
 Security.  It scans cloud infrastructure configurations.
 <br><br>
-Comments:<br> The Microsoft Security Code Analysis Extension is an Azure DevOps Services platform task collection. These tasks automatically download and run secure development tools in the build pipeline. The extension is now in a Private Preview (by invitation).	
+Comments:<br> The Microsoft Security Code Analysis Extension is an Azure DevOps Services platform task collection. These tasks automatically download and run secure development tools in the build pipeline. The extension is now in a Private Preview (by invitation).	 <br>
 This capability may be in the same group as the one provided by:
 •	Secure DevOps Kit for Azure
 •	Microsoft Security Analysis
@@ -862,9 +859,9 @@ Comments:<br>
 This tool is specific for containers running in Kubernetes 	Kubernetes specific Penetration Test – PenTest
 <br><br>
 Resources:<br>
-http://techgenix.com/kubernetes-security-tools/ 
-https://blog.aquasec.com/kube-hunter-kubernetes-penetration-testing
-https://github.com/aquasecurity/kube-hunter 
+http://techgenix.com/kubernetes-security-tools/  <br>
+https://blog.aquasec.com/kube-hunter-kubernetes-penetration-testing <br>
+https://github.com/aquasecurity/kube-hunter  
 <br>
 <br>
 <br>
@@ -877,9 +874,9 @@ Comments:<br>
 Kube-bench is a Go application that checks whether Kubernetes is deployed securely by running the checks documented in the CIS Kubernetes Benchmark.
 <br><br>
 Resources:<br>
-Kubernetes-specific vulnerability tool – Vulnerability tool
-http://techgenix.com/kubernetes-security-tools/
-https://github.com/aquasecurity/kube-bench
+Kubernetes-specific vulnerability tool – Vulnerability tool <br>
+http://techgenix.com/kubernetes-security-tools/ <br>
+https://github.com/aquasecurity/kube-bench <br>
 https://www.cisecurity.org/benchmark/kubernetes/ 
 <br>
 <br>
@@ -906,8 +903,8 @@ It Scans your repos to detect dependencies (wide package manager support). It Ch
 Save time and reduce risk by automating dependency updates in software projects. Fully customizable with a setting to suit every workflow.	
 <br><br>
 Resources:<br>
-https://www.npmjs.com/package/renovate 
-https://renovatebot.com/
+https://www.npmjs.com/package/renovate  <br>
+https://renovatebot.com/ <br>
 https://github.com/renovatebot/renovate
 <br>
 <br>
@@ -921,7 +918,7 @@ Comments:<br>
 Dependabot is a GitHub app that automates dependency updates. Every day, Dependabot pulls down your dependency files and looks for outdated requirements. If any dependencies are out-of-date, Dependabot opens individual pull requests to bump each one.	
 <br><br>
 Resources:<br>
-https://dependabot.com/
+https://dependabot.com/ <br>
 https://dependabot.com/blog/introducing-dependabot/
 <br>
 <br>
@@ -932,11 +929,11 @@ Category:<br>
 Source code quality. Quality assurance
 <br><br>
 Comments:<br> 
-It is an Open-source error tracking that helps developers monitor and fix crashes in real-time. Iterate continuously. Boost efficiency. Improve user experience.	
+It is an Open-source error tracking that helps developers monitor and fix crashes in real time. Iterate continuously. Boost efficiency. Improve user experience.	
 <br><br>
 Resources:<br>
 https://docs.sentry.io/
-Sentry + Microsoft Azure DevOps: Error-Tracking, Crash-Reporting, & More
+Sentry + Microsoft Azure DevOps: Error-Tracking, Crash-Reporting, & More <br>
 https://blog.sentry.io/2018/09/18/sentry-azure-devops-integration-update
 <br>
 <br>
@@ -961,8 +958,7 @@ Category:<br>
 Governance. Source code quality.
 <br><br>
 Comments:<br>
-It implements compilation assertion rules to static code packages.
-Application architecture and Project structure code analyser based on flexible architecture principle rules. It can check that packages do not include or have static dependencies with libraries from other packages. Each of the packages is meant to be deployable code based for different modules of the architecture.	
+It implements compilation assertion rules to static code packages. Application architecture and Project structure code analyser based on flexible architecture principle rules. It can check that packages do not include or have static dependencies with libraries from other packages. Each of the packages is meant to be deployable code based for different modules of the architecture.	
 <br><br>
 Resources:<br>
 Java Library (Original Project) <br> 
@@ -1015,17 +1011,17 @@ Comments:<br>
 The Chaos Toolkit is a toolkit to describe and then run repeatable experiments on your infrastructure to understand its resilience in the event of failure. It is an open-source project dedicated to the practice. The toolkit already has drivers for AWS, Azure Service Fabric and GCE (among others) and plays nicely with build tools that let you experiment with automation. The usual caveats apply; Chaos Engineering is a powerful technique best used on resilience-aware systems, systems built to cope with failure. Therefore, we recommend using Chaos Toolkit in your nonproduction environments first.	Based on the recommendations for chaos engineering for Kubernetes book: “The DevOps Toolkit Kubernetes Chaos Engineering (2020)” by Viktor Farcic and Darin Pope. Gremlin Reliability. Gremlin provides a unique tool that allows infiltrating the Kafka brokers to produce artificial instability that allows an understanding of how the system recovers.	
 <br><br>
 Resources:<br>
-https://chaostoolkit.org/
-Chaos experiments to run on Apache Kafka
-https://www.gremlin.com/community/tutorials/the-first-4-chaos-experiments-to-run-on-apache-kafka/
-For example:
-Experiment 1: Impact of broker load on processing latency
-https://www.gremlin.com/community/tutorials/the-first-4-chaos-experiments-to-run-on-apache-kafka/#experiment-1-impact-of-broker-load-on-processing-latency 
-Experiment 2: Risk of data loss due to dropped messages
-https://www.gremlin.com/community/tutorials/the-first-4-chaos-experiments-to-run-on-apache-kafka/#experiment-2-risk-of-data-loss-due-to-dropped-messages 
-Experiment 3: Avoiding a split-brain cluster
-https://www.gremlin.com/community/tutorials/the-first-4-chaos-experiments-to-run-on-apache-kafka/#experiment-3-avoiding-a-split-brain-cluster 
-Experiment 4: ZooKeeper outage
+https://chaostoolkit.org/ <br>
+Chaos experiments to run on Apache Kafka <br>
+https://www.gremlin.com/community/tutorials/the-first-4-chaos-experiments-to-run-on-apache-kafka/ <br>
+For example: <br>
+Experiment 1: Impact of broker load on processing latency <br>
+https://www.gremlin.com/community/tutorials/the-first-4-chaos-experiments-to-run-on-apache-kafka/#experiment-1-impact-of-broker-load-on-processing-latency  <br>
+Experiment 2: Risk of data loss due to dropped messages <br>
+https://www.gremlin.com/community/tutorials/the-first-4-chaos-experiments-to-run-on-apache-kafka/#experiment-2-risk-of-data-loss-due-to-dropped-messages  <br>
+Experiment 3: Avoiding a split-brain cluster <br>
+https://www.gremlin.com/community/tutorials/the-first-4-chaos-experiments-to-run-on-apache-kafka/#experiment-3-avoiding-a-split-brain-cluster  <br>
+Experiment 4: ZooKeeper outage <br>
 https://www.gremlin.com/community/tutorials/the-first-4-chaos-experiments-to-run-on-apache-kafka/#experiment-4-zookeeper-outage
 <br>
 <br>
@@ -1095,8 +1091,8 @@ This capability may be in the same group as the one provided by:
 •	WhiteSource
 <br><br>
 Resources:<br>
-Read more about open-source license concerns:
-https://softwareengineering.stackexchange.com/questions/47032/can-i-use-gpl-software-in-a-commercial-application
+Read more about open-source license concerns: <br>
+https://softwareengineering.stackexchange.com/questions/47032/can-i-use-gpl-software-in-a-commercial-application <br>
 https://www.whitesourcesoftware.com/
 <br>
 <br>
@@ -1138,7 +1134,7 @@ Category:<br>
 Diagrams as code. Productivity. Governance.
 <br><br>
 Comments:<br>
-It is a library that allows the creation of UML diagrams using a scripted language. PlantUML uses a graphic rendering engine Graphviz. There has to be implemented a bridge program that interprets the source an translate it to the graphical scripting language. The idea is to hook this tool into the CI-CD pipeline so that each deployment's basic diagrams and documentation are self-generated.
+It is a library that allows the creation of UML diagrams using a scripted language. PlantUML uses a graphic rendering engine Graphviz. There has to be implemented a bridge program that interprets the source and translates it to the graphical scripting language. The idea is to hook this tool into the CI-CD pipeline so that each deployment's basic diagrams and documentation are self-generated.
 <br><br>
 Resources:<br>
 PlantUML  <br> 
@@ -1156,14 +1152,12 @@ Category:<br>
 Diagrams as code, Productivity, Governance
 <br><br>
 Comments:<br>
-Documentation	K8s-diagrams. A tool that allows creating diagrams by pointing them to a Kubernetes cluster or Kubernetes namespace. 
-It uses the PlantUML engine, although it does not conform to UML but its standards. It uses the official Kubernetes master icon set.
-The idea is to hook this tool into the CI-CD pipeline so that each deployment's basic diagrams and documentation are self-generated.	
+Documentation	K8s-diagrams. A tool that allows creating diagrams by pointing them to a Kubernetes cluster or Kubernetes namespace. It uses the PlantUML engine, although it does not conform to UML but its standards. It uses the official Kubernetes master icon set. The idea is to hook this tool into the CI-CD pipeline so that each deployment's basic diagrams and documentation are self-generated.	
 <br><br>
 Resources:<br>
-K8s-diagrams
-https://github.com/cloudogu/k8s-diagrams
-Kubernetes icons
+K8s-diagrams <br>
+https://github.com/cloudogu/k8s-diagrams <br>
+Kubernetes icons <br>
 https://github.com/kubernetes/community/tree/master/icons 
 <br>
 <br>
@@ -1174,16 +1168,15 @@ Category:<br>
 Diagrams as code, Productivity, Governance
 <br><br>
 Comments:<br>
-It is a tool to automatically create diagrams from cloud infrastructure, including Azure and Kubernetes. 
-It recommends extracting the data from the infrastructure using cloudiscovery tool. There has been implemented bridge program that interprets the source and translates it to the graphical scripting language. The idea is to hook this tool into the CI-CD pipeline so that each deployment's basic diagrams and documentation are self-generated.	
+It is a tool to automatically create diagrams from cloud infrastructure, including Azure and Kubernetes. It recommends extracting the data from the infrastructure using cloudiscovery tool. There has been implemented bridge program that interprets the source and translates it to the graphical scripting language. The idea is to hook this tool into the CI-CD pipeline so that each deployment's basic diagrams and documentation are self-generated.	
 <br><br>
 Resources:<br>
-Diagrams mingrammer
-https://diagrams.mingrammer.com/ 
-Kubernetes example
-https://diagrams.mingrammer.com/docs/getting-started/examples#stateful-architecture-on-kubernetes 
-Cloudiscovery
-https://github.com/Cloud-Architects/cloudiscovery 
+Diagrams mingrammer <br>
+https://diagrams.mingrammer.com/  <br>
+Kubernetes example <br>
+https://diagrams.mingrammer.com/docs/getting-started/examples#stateful-architecture-on-kubernetes  <br>
+Cloudiscovery <br>
+https://github.com/Cloud-Architects/cloudiscovery
 <br>
 <br>
 <br>
@@ -1196,11 +1189,11 @@ Comments:<br>
 The tool generates UML diagrams, and other project management diagrams (Gantt) from a scripting language. There has been implemented bridge program that interprets the source and translates it to the graphical scripting language. The idea is to hook this tool into the CI-CD pipeline so that each deployment's basic diagrams and documentation are self-generated.	
 <br><br>
 Resources:<br>
-Mermaid-js
-https://mermaid-js.github.io/ 
-Mermaid-js editor live
-https://mermaid.live/ 
-Mermaid-js npm package
+Mermaid-js <br>
+https://mermaid-js.github.io/  <br>
+Mermaid-js editor live <br>
+https://mermaid.live/  <br>
+Mermaid-js npm package <br>
 https://www.npmjs.com/package/mermaid 
 <br>
 <br>
@@ -1210,10 +1203,7 @@ https://www.npmjs.com/package/mermaid
 Category:<br> 
 Productivity, Governance. Documentation	
 <br><br>
-Comments:<br> Integrate CI/CD and build the pipeline to the iServer metadata repository. 
-All these can be captured and fed to the iServer repository while processing in CI-CD. This information can be translated to enterprise model standards (TOGAF, ArchiMate, UML).
-You may need to do a POC for this. Achieve having updated data in the EAM to have “living documents”
-At the time of building application components and systems, it is possible to capture valuable information about: <br> 
+Comments:<br> Integrate CI/CD and build the pipeline to the iServer metadata repository. All these can be captured and fed to the iServer repository while processing in CI-CD. This information can be translated to enterprise model standards (TOGAF, ArchiMate, UML).You may need to do a POC for this. Achieve having updated data in the EAM to have “living documents”. At the time of building application components and systems, it is possible to capture valuable information about: <br> 
 . Infrastructure configuration <br> 
 . Applications components <br> 
 . Application deployment <br> 
@@ -1253,31 +1243,31 @@ Category:<br>
 Source code quality
 <br><br>
 Comments:<br>
-This capability aligns with the one presented in the “Infrastructure as a Code” book by Kief Morris. They propose incorporating coding excellency into the code that creates infrastructure in the cloud due to running. They use the standards of the “Clean Code” book from 2008 as the guiding principle for these coding standards. All this initiative tries to follow the master idea of Continuous Delivery which is described in the book “Continuous Delivery (2011)”
-. Clean Code (2008)
-. Infrastructure as Code Managing Servers in the Cloud (2016)
-. Continuous Delivery - Reliable Software Releases Through Build, Test And Deployment Automation (2011)
-Some additional notes:
-. They use Terraform mostly as the standard for this 
-. Apply good coding standards.
- Modularity
- Source version control
-  Etc…, any other standards from the book's “Clean code” that apply.
-. Check the syntax of the scripts
-. Validate pipeline
-. Run and debug the pipeline
-. Be able to emulate results locally before running for real. Mock the cloud provider in a local machine or contained environment
-. Have a convention to validate the IaC scripts
-. Create docker images as a result
-. Be able to create a unit test for the infrastructure
-. Be able to run integration tests for the infrastructure
-. etc
-Some of the challenges and tips they described:
-. Use pre-commit hooks to validate the commit. Select what hooks you want to run for the change being committed 
+This capability aligns with the one presented in the “Infrastructure as a Code” book by Kief Morris. They propose incorporating coding excellency into the code that creates infrastructure in the cloud due to running. They use the standards of the “Clean Code” book from 2008 as the guiding principle for these coding standards. All this initiative tries to follow the master idea of Continuous Delivery which is described in the book “Continuous Delivery (2011)” <br>
+. Clean Code (2008) <br>
+. Infrastructure as Code Managing Servers in the Cloud (2016) <br>
+. Continuous Delivery - Reliable Software Releases Through Build, Test And Deployment Automation (2011) <br>
+Some additional notes: <br>
+. They use Terraform mostly as the standard for this  <br>
+. Apply good coding standards. <br>
+ Modularity <br>
+ Source version control <br>
+  Etc…, any other standards from the book's “Clean code” that apply. <br>
+. Check the syntax of the scripts <br>
+. Validate pipeline <br>
+. Run and debug the pipeline <br>
+. Be able to emulate results locally before running for real. Mock the cloud provider in a local machine or contained environment <br>
+. Have a convention to validate the IaC scripts <br>
+. Create docker images as a result <br>
+. Be able to create a unit test for the infrastructure <br>
+. Be able to run integration tests for the infrastructure <br>
+. etc <br>
+Some of the challenges and tips they described: <br>
+. Use pre-commit hooks to validate the commit. Select what hooks you want to run for the change being committed  <br>
 <br><br>
 Resources:<br>
-DoBetterAsCode: https://dobetterascode.com/
-DoBetterAsCode  Github: https://github.com/DoBetterAsCode/DoBetterAsCode
+DoBetterAsCode: https://dobetterascode.com/ <br>
+DoBetterAsCode  Github: https://github.com/DoBetterAsCode/DoBetterAsCode <br>
 DoBetterAsCode  Tools and Resources:<br>  https://dobetterascode.com/resources/ 
 <br>
 <br>
@@ -1291,8 +1281,8 @@ Comments:<br>
 It is a set of free-to-use and open-source tools, including fulcio, cosign and rekor, handling digital signing, verification and checks for provenance needed to make it safer to distribute and use open-source software	
 <br><br>
 Resources:<br>
-Sigstore
-https://www.sigstore.dev/ 
+Sigstore <br>
+https://www.sigstore.dev/  
 <br>
 <br>
 <br>
@@ -1305,7 +1295,7 @@ Comments:<br>
 It helps you verify scripts and executables to mitigate chain of supply attacks such as the recent Codecov hack	
 <br><br>
 Resources:<br>
-Preflight
+Preflight <br>
 https://github.com/spectralops/preflight 
 <br>
 <br>
@@ -1333,7 +1323,7 @@ Comments:<br>
 CSPM	Cloud Security Posture Management (CSPM) Open source
 <br><br>
 Resources:<br>
-Cloud Query
+Cloud Query <br>
 https://www.cloudquery.io/ 
 <br>
 <br>
@@ -1371,7 +1361,7 @@ Comments:<br>
 Multi-cloud security analysis framework
 <br><br>
 Resources:<br>
-CloudCustodian
+CloudCustodian <br>
 https://github.com/cloud-custodian/cloud-custodian/	
 <br>
 <br>
@@ -1424,7 +1414,7 @@ Comments:<br>
 Reads from existing public and private cloud providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration	
 <br><br>
 Resources:<br>
-terracognita.
+terracognita <br>
 https://github.com/cycloidio
 <br>
 <br>
@@ -1438,9 +1428,9 @@ Comments:<br>
 It generates a graph with the most important resources of your infrastructure. Reads from a “.tfstate” file (created when you do a `terraform import`) or HCL (HashiCorp Configuration Language). It generates a DOT format.	
 <br><br>
 Resources:<br>
-inframap
-https://github.com/cycloidio
-DOT Format
+inframap <br>
+https://github.com/cycloidio <br>
+DOT Format <br>
 https://graphviz.org/doc/info/lang.html
 <br>
 <br>
@@ -1454,7 +1444,7 @@ Comments:<br>
 A tool that could be more suitable for data pipelines. However, it can be used as a quality assurance tool in the DevSecOps pipeline to ensure the integrity of an environment and to test and ensure that previous data inconsistencies are not affecting the system before deploying a new package. It is designed to read in and validate tabular data against a given schema for the data. The schemas provided adhere to our metadata schemas standards for data. Based on the validation result, this package can also manage data movement from a landing area (s3 or locally) to a new location.	
 <br><br>
 Resources:<br>
-Data quality control linter
+Data quality control linter <br>
 https://pypi.org/project/data-linter/
 <br>
 <br>
@@ -1468,7 +1458,7 @@ Comments:<br>
 A tool that could be more suitable for data pipelines. However, it can be used as a quality assurance tool in the DevSecOps pipeline to ensure the integrity of an environment and to test and ensure that previous data inconsistencies are not affecting the system before deploying a new package. 	
 <br><br>
 Resources:<br>
-Great Expectations 
+Great Expectations  <br>
 https://github.com/great-expectations/great_expectations
 <br>
 <br>
@@ -1483,7 +1473,7 @@ DbUnit is a JUnit extension (also usable with Ant) targeted at database-driven p
 DbUnit can export and import your database data to and from XML datasets. Since version 2.0, DbUnit can also work with large datasets in streaming mode. DbUnit can also help you to verify that your database data match an expected set of values.	
 <br><br>
 Resources:<br>
-DBUni
+DBUni <br>
 https://www.dbunit.org/intro.html
 <br>
 <br>
