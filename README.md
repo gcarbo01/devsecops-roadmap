@@ -73,8 +73,8 @@ Source code quality. Flow is a static type checker for JavaScript. The overall m
 Resources:<br>
 https://flow.org/
 https://github.com/facebook/flow
-<be>
-<be>
+<br>
+<br>
 <br>
 **SQL Fluff**
 <br><br>
@@ -226,10 +226,10 @@ This capability may be in the same group as the one provided by:
 •	Harness.io
 <br><br>
 Resources:<br>
-Microsoft has recently implemented cost and budget APIs and built-in functions in Azure Portal that could help to develop this capability.	https://www.thoughtworks.com/radar/techniques/run-cost-as-architecture-fitness-function
-https://docs.microsoft.com/en-us/azure/cost-management/tutorial-forecast-spending
-https://docs.microsoft.com/en-us/rest/api/consumption/forecasts/list
-https://docs.microsoft.com/en-us/rest/api/consumption/budgets
+Microsoft has recently implemented cost and budget APIs and built-in functions in Azure Portal that could help to develop this capability.<br>	https://www.thoughtworks.com/radar/techniques/run-cost-as-architecture-fitness-function <br>
+https://docs.microsoft.com/en-us/azure/cost-management/tutorial-forecast-spending <br>
+https://docs.microsoft.com/en-us/rest/api/consumption/forecasts/list <br>
+https://docs.microsoft.com/en-us/rest/api/consumption/budgets 
 <br>
 <br>
 <br>
