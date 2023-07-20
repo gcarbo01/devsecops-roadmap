@@ -15,7 +15,7 @@ Comments:<br>
 Source code quality	Open source static code analyser	
 <br><br>
 Resources:<br>
-Sonarqube JavaScript
+Sonarqube JavaScript <br>
 https://docs.sonarqube.org/display/PLUG/SonarJS
 <br>
 <br>
@@ -29,7 +29,7 @@ Comments:<br>
 Source code quality	Open source static code analyser	
 <br><br>
 Resources:<br>
-Sonarqube .net framework
+Sonarqube .net framework <br>
 https://docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner+for+MSBuild
 <be>
 <br>
@@ -43,7 +43,7 @@ Comments:<br>
 Source code quality. Open source static code analyser.
 <br><br>
 Resources:<br>
-Sonarqube Java
+Sonarqube Java <br>
 https://docs.sonarqube.org/display/PLUG/SonarJava
 <br>
 <br>
@@ -57,7 +57,7 @@ Comments:<br>
 Source code quality. Static Code Analyser for Web Applications and Single Page Applications	
 <br><br>
 Resources:<br>
-https://htmlhint.io/
+https://htmlhint.io/ <br>
 https://github.com/htmlhint/HTMLHint
 <br>
 <br>
@@ -71,7 +71,7 @@ Comments:<br>
 Source code quality. Flow is a static type checker for JavaScript. The overall mission of Flow is to deliver an immersive coding experience for JavaScript developers—a fast edit-refresh cycle—even as the codebase evolves and grows.	
 <br><br>
 Resources:<br>
-https://flow.org/
+https://flow.org/ <br>
 https://github.com/facebook/flow
 <br>
 <br>
@@ -98,7 +98,7 @@ Comments:<br>
 Source code linter specialising in SQL statements. It helps you write good SQL and catch errors and bad SQL before it hits your database.	
 <br><br>
 Resources:<br>
-SQL Linter
+SQL Linter <br>
 https://github.com/joereynolds/sql-lint
 <br>
 <br>
@@ -112,7 +112,7 @@ Comments:<br>
 Source code linter specialising in SQL statements. It helps you write good SQL and catch errors and bad SQL before it hits your database.
 <br><br>
 Resources:<br>
-SQL Linter
+SQL Linter <br>
 https://github.com/tsqllint/tsqllint 
 <br>
 <br>
@@ -126,7 +126,7 @@ Comments:<br>
 Source code quality, Automated Testing	Check CSV files to see whether they contain the columns and types of values they should. It helps you write good SQL and catch errors and bad SQL before it hits your database.	
 <br><br>
 Resources:<br>
-CSV Lint
+CSV Lint <br>
 https://csvlint.io/
 <br>
 <br>
@@ -167,7 +167,7 @@ Comments:<br>
 It is a tool written by Google to assess web applications and web pages, collecting performance metrics and insights on good development practices.
 <br><br>
 Resources:<br>
-https://developer.chrome.com/docs/lighthouse/overview/
+https://developer.chrome.com/docs/lighthouse/overview/ <br>
 https://github.com/GoogleChrome/lighthouse
 <br>
 <br>
@@ -181,7 +181,7 @@ Comments:<br>
 CI-CD scripting pipeline language. Build portable pipelines and configurations using a scripting language that allows changing the underlying CI-CD technology.	
 <br><br>
 Resources:<br>
-CI-CD tool and platform-independent scripting language.
+CI-CD tool and platform-independent scripting language. <br>
 https://bazel.build/
 <br>
 <br>
@@ -196,8 +196,8 @@ Elastic Search provides a protocol to inject and display open telemetry to a das
 This is useful for the case it is required to create a custom dashboard from the CI-CD pipeline execution itself. 
 <br><br>
 Resources:<br>
-For example, when the pipeline is implemented in Jenkins 
-https://plugins.jenkins.io/opentelemetry/	
+For example, when the pipeline is implemented in Jenkins  <br>
+https://plugins.jenkins.io/opentelemetry/	 <br>
 https://www.elastic.co/apm 
 <br>
 <br>
@@ -255,7 +255,7 @@ Comments:<br>
 It makes cost trade-offs visible in Terraform pull requests. It's open-source software and supports pricing for AWS, GCP and Microsoft Azure out of the box. It also provides a public API that can be queried for current cost data. Note: There has to be a bridge integration program to get the cost and publish it in MS Teams or Slack for approval.
 <br><br>
 Resources:<br>
-https://www.infracost.io/
+https://www.infracost.io/ <br>
 https://github.com/infracost/infracost 
 <br><br>
 **Terracost**
@@ -397,8 +397,8 @@ This capability may be in the same group as the one provided by:
 •	Kube hunter
 <br><br>
 Resources:<br>
-Benchmark Tests	
-https://github.com/aquasecurity/kube-bench
+Benchmark Tests	 <br>
+https://github.com/aquasecurity/kube-bench <br>
 https://www.cisecurity.org/cis-benchmarks/
 <br>
 <br>
@@ -416,7 +416,7 @@ This capability may be in the same group as the one provided by:
 •	Kube hunter
 <br><br>
 Resources:<br>
-https://kube-score.com/
+https://kube-score.com/ <br>
 https://github.com/zegl/kube-score
 <br>
 <br>
