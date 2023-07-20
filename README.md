@@ -1,23 +1,25 @@
 # devsecops-roadmap
 
+Intro:<br>
 Listed in no particular order. Do your research. Most of these tools are open-sourced and may flourish or die without notice.
 Each tool may be applicable for one or more capabilities. So they are tagged by "Category".
-
-
-
+<br>
+<br>
+<br>
 **Sonarqube (JavaScript and many languages)**	
-
+<br>
 Category: 
 Static Code Analyzer
-
+<br>
 Comments:
 Source code quality	Open source static code analyser	
-
+<br>
 Resources:
 Sonarqube JavaScript
 https://docs.sonarqube.org/display/PLUG/SonarJS
-
-
+<br>
+<br>
+<br>
 **Sonarqube (.net framework)**	
 
 Category: 
