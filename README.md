@@ -210,17 +210,17 @@ Infrastructure Architecture Budget control
 <br><br>
 Comments:<br> 
 CI-CD pipeline component: 
-1.	create or modify budgets
-2.	run cost forecasting calculation considering the already consumed budget
-3.	verify, alert or deny deployments depending on budget progression and forecasting. Because of an error, a script can instantiate unnecessary resources. 
+. create or modify budgets
+. run cost forecasting calculation considering the already consumed budget
+. verify, alert or deny deployments depending on budget progression and forecasting. Because of an error, a script can instantiate unnecessary resources. 
 User interface component: 
-1.	create or modify budgets.
-2.	assign responsible per budget/application.
-3.	verify and limit the cost increase
+. create or modify budgets.
+. assign responsible per budget/application.
+. verify and limit the cost increase
 Monitoring component: 
-1.	monitoring real-time.
-2.	run cost forecasting calculation considering the already consumed budget
-3.	alert to responsible per budget/application.
+. monitoring real-time.
+. run cost forecasting calculation considering the already consumed budget
+. alert to responsible per budget/application.
 This capability may be in the same group as the one provided by:
 •	Microsoft Azure cost management API
 •	Harness.io
