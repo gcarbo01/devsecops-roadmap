@@ -54,7 +54,7 @@ Category:<br>
 Static Code Analyzer
 <br><br>
 Comments:<br> 
-Source code quality. Static Code analyser for Web applications and Single Page Applications	
+Source code quality. Static Code Analyser for Web Applications and Single Page Applications	
 <br><br>
 Resources:<br>
 https://htmlhint.io/
@@ -209,21 +209,21 @@ Optimisation Cost, Infrastructure Architecture Cost Calculation Simulation, Infr
 Infrastructure Architecture Budget control 
 <br><br>
 Comments:<br> 
-CI-CD pipeline component: 
-. create or modify budgets
-. run cost forecasting calculation considering the already consumed budget
-. verify, alert or deny deployments depending on budget progression and forecasting. Because of an error, a script can instantiate unnecessary resources. 
-User interface component: 
-. create or modify budgets.
-. assign responsible per budget/application.
-. verify and limit the cost increase
-Monitoring component: 
-. monitoring real-time.
-. run cost forecasting calculation considering the already consumed budget
-. alert to responsible per budget/application.
-This capability may be in the same group as the one provided by:
-•	Microsoft Azure cost management API
-•	Harness.io
+CI-CD pipeline component: <br> 
+. create or modify budgets <br> 
+. run cost forecasting calculation considering the already consumed budget <br> 
+. verify, alert or deny deployments depending on budget progression and forecasting. Because of an error, a script can instantiate unnecessary resources.  <br> 
+User interface component:  <br> 
+. create or modify budgets. <br> 
+. assign responsible per budget/application. <br> 
+. verify and limit the cost increase <br> 
+Monitoring component:  <br> 
+. monitoring real-time. <br> 
+. run cost forecasting calculation considering the already consumed budget <br> 
+. alert to responsible per budget/application. <br> 
+This capability may be in the same group as the one provided by: <br> 
+•	Microsoft Azure cost management API <br> 
+•	Harness.io  
 <br><br>
 Resources:<br>
 Microsoft has recently implemented cost and budget APIs and built-in functions in Azure Portal that could help to develop this capability.<br>	https://www.thoughtworks.com/radar/techniques/run-cost-as-architecture-fitness-function <br>
