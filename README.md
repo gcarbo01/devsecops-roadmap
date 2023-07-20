@@ -328,17 +328,17 @@ For example:
 (AppArmor is a Mandatory Access Control (MAC) system which is a kernel (LSM) enhancement to confine programs to a limited set of resources. AppArmor's security model is to bind access control attributes to programs rather than to users)	
 <br><br>
 Resources:<br>
-serverspec
-https://serverspec.org/
-Getting started with chef cookbooks as an app dev with test-kitchen + docker, part 1
-https://www.intricatecloud.io/2018/04/cookbook-testing-with-test-kitchen-chefspec-serverspec-part-1/ 
-Testing your cookbooks with test-kitchen + chefspec + serverspec, part 2
-https://www.intricatecloud.io/2018/05/cookbook-testing-with-test-kitchen-chefspec-serverspec-part-2/ 
-Verify that the container is rootless
-https://github.com/opencontainers/runc#rootless-containers 
-Verify the correct configuration of AppArmor
-AppArmor is a Mandatory Access Control (MAC) system, a kernel (LSM) enhancement to confine programs to a limited set of resources.
-AppArmor's security model is to bind access control attributes to programs rather than to users. 
+serverspec <br> 
+https://serverspec.org/ <br> 
+Getting started with chef cookbooks as an app dev with test-kitchen + docker, part 1 <br> 
+https://www.intricatecloud.io/2018/04/cookbook-testing-with-test-kitchen-chefspec-serverspec-part-1/  <br> 
+Testing your cookbooks with test-kitchen + chefspec + serverspec, part 2 <br> 
+https://www.intricatecloud.io/2018/05/cookbook-testing-with-test-kitchen-chefspec-serverspec-part-2/  <br> 
+Verify that the container is rootless <br> 
+https://github.com/opencontainers/runc#rootless-containers  <br> 
+Verify the correct configuration of AppArmor <br> 
+AppArmor is a Mandatory Access Control (MAC) system, a kernel (LSM) enhancement to confine programs to a limited set of resources. <br> 
+AppArmor's security model is to bind access control attributes to programs rather than to users.  <br> 
 https://documentation.suse.com/sles/12-SP4/html/SLES-all/cha-apparmor-intro.html 
 <br>
 <br>
