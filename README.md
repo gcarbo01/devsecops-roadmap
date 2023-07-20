@@ -4,6 +4,7 @@ Listed in no particular order. Do your research. Most of these tools are open-so
 Each tool may be applicable for one or more capabilities. So they are tagged by "Category".
 
 
+
 **Sonarqube (JavaScript and many languages)**	
 
 Category: 
