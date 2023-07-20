@@ -236,7 +236,7 @@ https://docs.microsoft.com/en-us/rest/api/consumption/budgets
 **harness**
 <br><br>
 Category:<br> 
-Cloud Cost Optimisation	Cost	Infrastructure Architecture Cost Calculation Simulation,  Infrastructure Architecture Cost Optimisation 
+Cloud Cost Optimisation	Cost.	Infrastructure Architecture Cost Calculation Simulation,  Infrastructure Architecture Cost Optimisation 
 <br><br>
 Comments:<br> 
 Infrastructure Architecture Budget control 
