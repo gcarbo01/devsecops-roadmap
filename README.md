@@ -322,9 +322,9 @@ Test Driven Design. ServerSpec - Test Driven Design for containers
 <br><br>
 Comments:<br>
 Test the configurations of containers. Allow fast refactoring of infrastructure. It tests your servers’ actual state by executing commands locally via SSH, WinRM, Docker API, etc. So you don’t need to install any agent software on your servers and can use any configuration management tools, Puppet, Ansible, CFEngine, Itamae, etc.
-For example:
-- Verify that the container is rootless
-- Verify the correct configuration of AppArmor
+For example: <br> 
+. Verify that the container is rootless <br> 
+. Verify the correct configuration of AppArmor <br> 
 (AppArmor is a Mandatory Access Control (MAC) system which is a kernel (LSM) enhancement to confine programs to a limited set of resources. AppArmor's security model is to bind access control attributes to programs rather than to users)	
 <br><br>
 Resources:<br>
@@ -834,8 +834,8 @@ Build-pipelines' output can be associated with Slack channels to inform about fa
 It can also provide visibility to architects and managers about the build process to exercise governance. 	
 <br><br>
 Resources:<br>
-https://api.slack.com/
-https://docs.microsoft.com/en-us/azure/devops/service-hooks/services/slack?view=azure-devops
+https://api.slack.com/ <br> 
+https://docs.microsoft.com/en-us/azure/devops/service-hooks/services/slack?view=azure-devops <br> 
 https://docs.microsoft.com/en-us/azure/devops/pipelines/integrations/slack?view=azure-devops
 <br>
 <br>
@@ -950,7 +950,7 @@ Comments:<br>
 Source code quality	Toolset for analysing codebases stored in a version control system. It leverages the repository logs, or version history data, to perform deep analyses regarding complexity, logical coupling, and authors coupling and to inspect the evolution in time of different parts of a software system concerning metrics like code churn and the number of revisions.	
 <br><br>
 Resources:<br>
-https://www.npmjs.com/package/code-forensics
+https://www.npmjs.com/package/code-forensics <br> 
 https://github.com/smontanari/code-forensics
 <br>
 <br>
@@ -965,11 +965,11 @@ It implements compilation assertion rules to static code packages.
 Application architecture and Project structure code analyser based on flexible architecture principle rules. It can check that packages do not include or have static dependencies with libraries from other packages. Each of the packages is meant to be deployable code based for different modules of the architecture.	
 <br><br>
 Resources:<br>
-Java Library (Original Project)
-https://www.archunit.org/  
-.Net Library 
-https://github.com/BenMorris/NetArchTest/tree/master  
-NodeJS Library
+Java Library (Original Project) <br> 
+https://www.archunit.org/   <br>  
+.Net Library  <br> 
+https://github.com/BenMorris/NetArchTest/tree/master   <br> 
+NodeJS Library <br> 
 https://github.com/manjericao/ArchUnitNode 
 <br>
 <br>
@@ -996,12 +996,12 @@ Comments:<br>
 These tools inject failure into your Kubernetes clusters so that you can detect problems as early as possible. It allows for writing scenarios describing complete chaos experiments.
 <br><br>
 Resources:<br>
-https://dzone.com/articles/chaos-mesh-a-chaos-engineering-solution-for-system
-https://medium.com/faun/failures-are-inevitable-even-a-strongest-platform-with-concrete-operations-infrastructure-can-7d0c016430c6 
-https://github.com/powerfulseal/powerfulseal
-https://github.com/bloomberg/goldpinger
-https://docs.locust.io/en/latest/running-locust-distributed.html 
-https://github.com/asobti/kube-monkey
+https://dzone.com/articles/chaos-mesh-a-chaos-engineering-solution-for-system <br> 
+https://medium.com/faun/failures-are-inevitable-even-a-strongest-platform-with-concrete-operations-infrastructure-can-7d0c016430c6  <br> 
+https://github.com/powerfulseal/powerfulseal <br> 
+https://github.com/bloomberg/goldpinger <br> 
+https://docs.locust.io/en/latest/running-locust-distributed.html  <br> 
+https://github.com/asobti/kube-monkey <br> 
 https://github.com/target/pod-reaper 
 <br>
 <br>
@@ -1051,14 +1051,14 @@ Cost Management, Security.
 Comments:<br> Integrate letsencrypt certificates to the CI-CD. Fastrack the creation and the management of certificates for new environments by having a secure, cheaper and faster process to request, deploy and operate lifecycle management of digital certificates using letsencrypt certificates lifecycle management APIs.	
 <br><br>
 Resources:<br>
-https://letsencrypt.org/
-https://letsencrypt.org/docs/client-options/
-https://certbot.eff.org/
-https://marketplace.visualstudio.com/items?itemName=cboroson.cboroson-VSTS-LetsEncrypt
-https://medium.com/@brentrobinson5/automating-certificate-management-with-azure-and-lets-encrypt-fee6729e2b78
-https://blogs.msdn.microsoft.com/mihansen/2018/01/25/azure-web-app-with-lets-encrypt-certificate-powershell-automation/
-https://dev.to/ianknighton/deploying-a-microservice-on-azure-kubernetes-with-lets-encrypt-4eon
-https://docs.microsoft.com/en-us/azure/aks/ingress-tls
+https://letsencrypt.org/ <br> 
+https://letsencrypt.org/docs/client-options/ <br> 
+https://certbot.eff.org/ <br> 
+https://marketplace.visualstudio.com/items?itemName=cboroson.cboroson-VSTS-LetsEncrypt <br> 
+https://medium.com/@brentrobinson5/automating-certificate-management-with-azure-and-lets-encrypt-fee6729e2b78 <br> 
+https://blogs.msdn.microsoft.com/mihansen/2018/01/25/azure-web-app-with-lets-encrypt-certificate-powershell-automation/ <br> 
+https://dev.to/ianknighton/deploying-a-microservice-on-azure-kubernetes-with-lets-encrypt-4eon <br> 
+https://docs.microsoft.com/en-us/azure/aks/ingress-tls <br> 
 https://github.com/jetstack/cert-manager
 <br>
 <br>
@@ -1075,11 +1075,11 @@ This capability may be in the same group as the one provided by:
 •	WhiteSource
 <br><br>
 Resources:<br>
-Read more about open-source license concerns:
-https://softwareengineering.stackexchange.com/questions/47032/can-i-use-gpl-software-in-a-commercial-application 
-https://fossa.com/
-https://www.fossology.org/
-https://sourceforge.net/projects/fossology/
+Read more about open-source license concerns: <br> 
+https://softwareengineering.stackexchange.com/questions/47032/can-i-use-gpl-software-in-a-commercial-application  <br> 
+https://fossa.com/ <br> 
+https://www.fossology.org/ <br> 
+https://sourceforge.net/projects/fossology/ <br> 
 <br>
 <br>
 <br>
@@ -1124,11 +1124,11 @@ Comments:<br>
 Adopt CI/CD emerging standards to avoid vendor locking, portability and interoperability. Linux Foundation has recently created a project called “CD Foundation”, which industry leaders have backed up. This is recent news, and nothing has come up yet from this forum. Vendors also are coming with open technologies to allow CD components interoperability. CDEvents is a common specification for Continuous Delivery events, enabling interoperability in the complete software production ecosystem. It's an incubated project at the Continuous Delivery Foundation (CDF). 	
 <br><br>
 Resources:<br>
-https://www.linuxfoundation.org/Projects/cd-foundation/
-Others:
-https://cloud.google.com/tekton/
-https://jenkins-x.io/
-https://www.spinnaker.io/
+https://www.linuxfoundation.org/Projects/cd-foundation/ <br> 
+Others: <br> 
+https://cloud.google.com/tekton/ <br> 
+https://jenkins-x.io/ <br> 
+https://www.spinnaker.io/ 
 <br>
 <br>
 <br>
@@ -1141,11 +1141,11 @@ Comments:<br>
 It is a library that allows the creation of UML diagrams using a scripted language. PlantUML uses a graphic rendering engine Graphviz. There has to be implemented a bridge program that interprets the source an translate it to the graphical scripting language. The idea is to hook this tool into the CI-CD pipeline so that each deployment's basic diagrams and documentation are self-generated.
 <br><br>
 Resources:<br>
-PlantUML 
-https://plantuml.com/ 
-Graphviz
-http://www.graphviz.org/
-Node-plantuml
+PlantUML  <br> 
+https://plantuml.com/  <br> 
+Graphviz <br>  
+http://www.graphviz.org/ <br> 
+Node-plantuml <br> 
 https://www.npmjs.com/package/node-plantuml 
 <br>
 <br>
@@ -1213,36 +1213,36 @@ Productivity, Governance. Documentation
 Comments:<br> Integrate CI/CD and build the pipeline to the iServer metadata repository. 
 All these can be captured and fed to the iServer repository while processing in CI-CD. This information can be translated to enterprise model standards (TOGAF, ArchiMate, UML).
 You may need to do a POC for this. Achieve having updated data in the EAM to have “living documents”
-At the time of building application components and systems, it is possible to capture valuable information about:
--	 Infrastructure configuration
--	Applications components
--	Application deployment
--	Application composition 
--	Application dependencies 
+At the time of building application components and systems, it is possible to capture valuable information about: <br> 
+. Infrastructure configuration <br> 
+. Applications components <br> 
+. Application deployment <br> 
+. Application composition  <br> 
+. Application dependencies  <br> 
 All languages have manifest files that this information can be obtained.
 <br><br>
 Resources:<br>
-Node.js application composition descriptor
-https://docs.npmjs.com/files/package.json
-https://www.orbussoftware.com/us/iserver/communicate/live-documents/
-Being able to streamline impact analysis and use iServer
-https://www.orbussoftware.com/us/iserver/analysis-decision-making/ 
-https://www.orbussoftware.com/us/business-process-analysis/capabilities/
-User Orbus iServer Data Exchange API
-https://www.orbussoftware.com/us/iserver/integrate/data-exchange/
-IServer supports these three models:
-These target models that we are expecting to use in iServer:
-ArchiMate (Open Group)
-https://pubs.opengroup.org/architecture/archimate3-doc/
-Application Layer Metamodel
-https://pubs.opengroup.org/architecture/archimate3-doc/chap09.html#_Toc489946063
-Technology Layer Metamodel
-https://pubs.opengroup.org/architecture/archimate3-doc/chap10.html#_Toc489946081
-Physical Elements Metamodel
-https://pubs.opengroup.org/architecture/archimate3-doc/chap11.html#_Toc489946104
-UML Deployment Model
-https://www.tutorialspoint.com/uml/uml_deployment_diagram.htm
-Terraform Azure provider examples
+Node.js application composition descriptor <br> 
+https://docs.npmjs.com/files/package.json <br> 
+https://www.orbussoftware.com/us/iserver/communicate/live-documents/ <br> 
+Being able to streamline impact analysis and use iServer <br> 
+https://www.orbussoftware.com/us/iserver/analysis-decision-making/  <br> 
+https://www.orbussoftware.com/us/business-process-analysis/capabilities/ <br> 
+User Orbus iServer Data Exchange API <br> 
+https://www.orbussoftware.com/us/iserver/integrate/data-exchange/ <br> 
+IServer supports these three models: <br> 
+These target models that we are expecting to use in iServer: <br> 
+ArchiMate (Open Group) <br> 
+https://pubs.opengroup.org/architecture/archimate3-doc/ <br> 
+Application Layer Metamodel <br> 
+https://pubs.opengroup.org/architecture/archimate3-doc/chap09.html#_Toc489946063 <br> 
+Technology Layer Metamodel <br> 
+https://pubs.opengroup.org/architecture/archimate3-doc/chap10.html#_Toc489946081 <br> 
+Physical Elements Metamodel <br> 
+https://pubs.opengroup.org/architecture/archimate3-doc/chap11.html#_Toc489946104 <br> 
+UML Deployment Model <br> 
+https://www.tutorialspoint.com/uml/uml_deployment_diagram.htm <br> 
+Terraform Azure provider examples <br> 
 https://github.com/terraform-providers/terraform-provider-azurerm/tree/master/examples
 <br>
 <br>
@@ -1254,26 +1254,26 @@ Source code quality
 <br><br>
 Comments:<br>
 This capability aligns with the one presented in the “Infrastructure as a Code” book by Kief Morris. They propose incorporating coding excellency into the code that creates infrastructure in the cloud due to running. They use the standards of the “Clean Code” book from 2008 as the guiding principle for these coding standards. All this initiative tries to follow the master idea of Continuous Delivery which is described in the book “Continuous Delivery (2011)”
--	Clean Code (2008)
--	Infrastructure as Code Managing Servers in the Cloud (2016)
--	Continuous Delivery - Reliable Software Releases Through Build, Test And Deployment Automation (2011)
-	Some additional notes:
--	They use Terraform mostly as the standard for this 
--	Apply good coding standards
-  Modularity
-  Source version control
+. Clean Code (2008)
+. Infrastructure as Code Managing Servers in the Cloud (2016)
+. Continuous Delivery - Reliable Software Releases Through Build, Test And Deployment Automation (2011)
+Some additional notes:
+. They use Terraform mostly as the standard for this 
+. Apply good coding standards.
+ Modularity
+ Source version control
   Etc…, any other standards from the book's “Clean code” that apply.
--	Check the syntax of the scripts
--	Validate pipeline
--	Run and debug the pipeline
--	Be able to emulate results locally before running for real. Mock the cloud provider in a local machine or contained environment
--	Have a convention to validate the IaC scripts
--	Create docker images as a result
--	Be able to create a unit test for the infrastructure
--	Be able to run integration tests for the infrastructure
--	etc
+. Check the syntax of the scripts
+. Validate pipeline
+. Run and debug the pipeline
+. Be able to emulate results locally before running for real. Mock the cloud provider in a local machine or contained environment
+. Have a convention to validate the IaC scripts
+. Create docker images as a result
+. Be able to create a unit test for the infrastructure
+. Be able to run integration tests for the infrastructure
+. etc
 Some of the challenges and tips they described:
--	Use pre-commit hooks to validate the commit. Select what hooks you want to run for the change being committed 
+. Use pre-commit hooks to validate the commit. Select what hooks you want to run for the change being committed 
 <br><br>
 Resources:<br>
 DoBetterAsCode: https://dobetterascode.com/
