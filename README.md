@@ -1066,7 +1066,7 @@ Compliance
 <br><br>
 Comments:<br>
 Open Source License compliance checker. The FOSSology Project is a Free Open Source Software (FOSS) project built around an open and modular architecture for analyzing software for open-source software governance. Existing modules include license scanning, copyright and user identification, license classification and metadata extraction.
-This capability may be in the same group as the one provided by:
+This capability may be in the same group as the one provided by: <br>
 •	Fossology
 •	WhiteSource
 <br><br>
