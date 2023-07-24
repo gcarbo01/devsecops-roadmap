@@ -1,14 +1,22 @@
 # devsecops-roadmap
-
+<br>
+<br>
+<br>
 ## Intro
 ### Summary
-For Enterprise Architects having to implement governance across projects and different groups, DevOps and DevSecOps are vital practices to consider. <br>
+For Enterprise Architects having to implement governance across projects and different groups, DevOps and DevSecOps are vital practices to consider. 
+<br>
+<br>
 **DevOps** <br>
 It promotes collaboration and integration among development, operations, and IT teams, automating software delivery for faster and more reliable results.  <br>
-Architects adopting DevOps consider the entire software development life cycle, implementing continuous integration, delivery, and monitoring for efficient delivery. <br>
+Architects adopting DevOps consider the entire software development life cycle, implementing continuous integration, delivery, and monitoring for efficient delivery.
+<br>
+<br>
 **DevSecOps** <br>
 It extends DevOps by integrating security practices throughout the development life cycle, emphasizing security from design to deployment. <br>
-For Architects in governance, adopting DevSecOps ensures security is integral to architecture, seamlessly integrating security controls into development and deployment. <br>
+For Architects in governance, adopting DevSecOps ensures security is integral to architecture, seamlessly integrating security controls into development and deployment.
+<br>
+<br>
 **Architecture Governance** <br>
 DevOps and DevSecOps enable Architects to implement robust frameworks by automating processes and ensuring compliance with policies, minimizing errors and delays. <br>
 DevSecOps allows addressing security concerns early, ensuring secure application design and compliance with regulations. <br>
@@ -224,6 +232,9 @@ It makes cost trade-offs visible in Terraform pull requests. It's open-source so
 ## Resources
 https://www.infracost.io/ <br>
 https://github.com/infracost/infracost 
+<br>
+<br>
+<br>
 # Terracost
 ## Category	
 Cost management.
@@ -556,8 +567,9 @@ Solidity Scribble: https://docs.scribble.codes/
 <br>
 # ZAP (OWASP) Penetration test
 ## Category 
-Security.	
-## Comments OWASP ZAP is a free penetration testing tool. Web Application Vulnerability Scanners are automated tools that scan web applications from the outside to look for security vulnerabilities such as Cross-site scripting, SQL Injection, Command Injection, Path Traversal and insecure server configuration. This tool category is frequently called Dynamic Application Security Testing (DAST) Tools.	
+Security	
+## Comments 
+OWASP ZAP is a free penetration testing tool. Web Application Vulnerability Scanners are automated tools that scan web applications from the outside to look for security vulnerabilities such as Cross-site scripting, SQL Injection, Command Injection, Path Traversal and insecure server configuration. This tool category is frequently called Dynamic Application Security Testing (DAST) Tools.	
 ## Resources
 OWASP Zed Attack Proxy Project - PenTest <br>
 https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project <br>
@@ -680,7 +692,8 @@ https://github.com/azsdk/azsdk-docs
 # Microsoft Security Code Analysis
 ## Category	
 Security.  It scans cloud infrastructure configurations.
-## Comments The Microsoft Security Code Analysis Extension is an Azure DevOps Services platform task collection. These tasks automatically download and run secure development tools in the build pipeline. The extension is now in a Private Preview (by invitation).	 <br>
+## Comments 
+The Microsoft Security Code Analysis Extension is an Azure DevOps Services platform task collection. These tasks automatically download and run secure development tools in the build pipeline. The extension is now in a Private Preview (by invitation).	 <br>
 This capability may be in the same group as the one provided by: <br>
 . Secure DevOps Kit for Azure
 . Microsoft Security Analysis
@@ -749,7 +762,8 @@ https://github.com/liquibase/liquibase/
 <br>
 # Renovate
 ## Category Source code quality
-## Comments It is an enhanced version of what dependabot does. It is an open-source tool that automatically creates pull requests for all dependency updates. Includes crowdsourced test and package adoption data used to flag potentially risky updates and enable auto-merging for those that meet user-defined conditions.
+## Comments 
+It is an enhanced version of what dependabot does. It is an open-source tool that automatically creates pull requests for all dependency updates. Includes crowdsourced test and package adoption data used to flag potentially risky updates and enable auto-merging for those that meet user-defined conditions.
 It Scans your repos to detect dependencies (wide package manager support). It Checks if any newer versions exist. And then Raises PRs for available updates.
 Save time and reduce risk by automating dependency updates in software projects. Fully customizable with a setting to suit every workflow.	
 ## Resources
@@ -868,7 +882,8 @@ https://codescene.io/
 # Letsencrypt
 ## Category 
 Cost Management, Security. 
-## Comments Integrate letsencrypt certificates to the CI-CD. Fastrack the creation and the management of certificates for new environments by having a secure, cheaper and faster process to request, deploy and operate lifecycle management of digital certificates using letsencrypt certificates lifecycle management APIs.	
+## Comments 
+Integrate letsencrypt certificates to the CI-CD. Fastrack the creation and the management of certificates for new environments by having a secure, cheaper and faster process to request, deploy and operate lifecycle management of digital certificates using letsencrypt certificates lifecycle management APIs.	
 ## Resources
 https://letsencrypt.org/ <br> 
 https://letsencrypt.org/docs/client-options/ <br> 
@@ -1001,7 +1016,8 @@ https://www.npmjs.com/package/mermaid
 # Enterprise asset management (EAM) - Diagrams as code - iServer integration
 ## Category 
 Productivity, Governance. Documentation	
-## Comments Integrate CI/CD and build the pipeline to the iServer metadata repository. All these can be captured and fed to the iServer repository while processing in CI-CD. This information can be translated to enterprise model standards (TOGAF, ArchiMate, UML).You may need to do a POC for this. Achieve having updated data in the EAM to have “living documents”. At the time of building application components and systems, it is possible to capture valuable information about: <br> 
+## Comments 
+Integrate CI/CD and build the pipeline to the iServer metadata repository. All these can be captured and fed to the iServer repository while processing in CI-CD. This information can be translated to enterprise model standards (TOGAF, ArchiMate, UML).You may need to do a POC for this. Achieve having updated data in the EAM to have “living documents”. At the time of building application components and systems, it is possible to capture valuable information about: <br> 
 . Infrastructure configuration <br> 
 . Applications components <br> 
 . Application deployment <br> 
@@ -1121,8 +1137,10 @@ https://github.com/aquasecurity/cloudsploit
 <br>
 <br>
 # ScoutSuite
-## Category Security, CSPM Cloud Security Posture Management (CSPM)	
-## Comments NCCgroup is a multi-cloud scanning tool. 
+## Category 
+Security, CSPM Cloud Security Posture Management (CSPM)	
+## Comments 
+NCCgroup is a multi-cloud scanning tool. 
 ## Resources
 https://github.com/nccgroup/ScoutSuite 
 <br>
