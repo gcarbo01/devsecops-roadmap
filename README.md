@@ -55,7 +55,8 @@ https://linuxsecurity.expert/security-tools/<br>
 <br>
 <br>
 <br>
-# Sonarqube (JavaScript, .Net, Java and many other languages)
+# Sonarqube 
+(JavaScript, .Net, Java and many other languages)
 ## Category
 Static Code Analyzer
 ## Comments
