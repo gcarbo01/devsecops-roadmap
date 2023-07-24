@@ -353,9 +353,9 @@ Security, Reliability
 ## Comments
 It is a tool for Running Kubernetes Center for Internet Security (CIS) 
 This capability may be in the same group as the one provided by: <br>
-. Kube bench 
-. Kube score
-. Kube hunter
+. Kube bench <br> 
+. Kube score <br> 
+. Kube hunter <br> 
 ## Resources
 Benchmark Tests	 <br>
 https://github.com/aquasecurity/kube-bench <br>
@@ -369,9 +369,9 @@ Reliability, Security
 ## Comments
 Kubernetes object analysis with recommendations for improved reliability and security.	
 This capability may be in the same group as the one provided by: <br>
-. Kube bench 
-. Kube score
-. Kube hunter
+. Kube bench  <br> 
+. Kube score <br> 
+. Kube hunter <br> 
 ## Resources
 https://kube-score.com/ <br>
 https://github.com/zegl/kube-score
@@ -396,9 +396,9 @@ Reliability, Security
 ## Comments
 It hunts for security weaknesses in Kubernetes clusters	
 This capability may be in the same group as the one provided by: <br>
-. Kube bench 
-. Kube score
-. Kube hunter
+. Kube bench  <br> 
+. Kube score <br> 
+. Kube hunter <br> 
 ## Resources
 https://github.com/aquasecurity/kube-hunter
 <br>
