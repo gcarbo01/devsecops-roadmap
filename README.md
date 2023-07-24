@@ -212,7 +212,7 @@ Monitoring component:  <br>
 . alert to responsible per budget/application. <br> 
 This capability may be in the same group as the one provided by: <br> 
 . Microsoft Azure cost management API <br> 
-. Harness.io  
+. Harness.io     <br>
 ## Resources
 Microsoft has recently implemented cost and budget APIs and built-in functions in Azure Portal that could help to develop this capability.<br>	https://www.thoughtworks.com/radar/techniques/run-cost-as-architecture-fitness-function <br>
 https://docs.microsoft.com/en-us/azure/cost-management/tutorial-forecast-spending <br>
@@ -319,8 +319,8 @@ https://documentation.suse.com/sles/12-SP4/html/SLES-all/cha-apparmor-intro.html
 Security, Reliability, Docker container vulnerability scanning, 
 ## Description
 This capability may be in the same group as the one provided by: <br>
-. Anchore
-. Clair
+. Anchore <br>
+. Clair   <br>
 ## Resources
 https://anchore.com/opensource/
 <br>
@@ -330,8 +330,8 @@ https://anchore.com/opensource/
 ## Category Security, Reliability, Docker containers vulnerability scanning.
 ## Description
 This capability may be in the same group as the one provided by: <br>
-. Anchore
-. Clair
+. Anchore <br>
+. Clair   <br>
 ## Resources
 https://github.com/coreos/clair
 <br>
@@ -441,7 +441,7 @@ Regression test
 Kafka integration automated regression test. Regression test. Automate Integration, Unit and End to End testing programmatically. 	 <br>
 This capability may be in the same group as the one provided by: <br>
 . Kafka automates testing <br>
-. Karate end-to-end testing tool 
+. Karate end-to-end testing tool    <br>
 ## Resources
 https://github.com/intuit/karate/ 
 <br>
@@ -578,18 +578,18 @@ https://docs.scribble.codes/
 ## Category 
 Security	
 ## Description 
-OWASP ZAP is a free penetration testing tool. Web Application Vulnerability Scanners are automated tools that scan web applications from the outside to look for security vulnerabilities such as Cross-site scripting, SQL Injection, Command Injection, Path Traversal and insecure server configuration. This tool category is frequently called Dynamic Application Security Testing (DAST) Tools.	
+OWASP ZAP is a free penetration testing tool. Web Application Vulnerability Scanners are automated tools that scan web applications from the outside to look for security vulnerabilities such as Cross-site scripting, SQL Injection, Command Injection, Path Traversal and insecure server configuration. This tool category is frequently called Dynamic Application Security Testing (DAST) Tools.	<br>
+This capability may be in the same group as the one provided by: <br>
+. ImmuniWeb <br>
+. ZAP (OWASP) <br>
+. Burp Suite   <br>
 ## Resources
 OWASP Zed Attack Proxy Project - PenTest <br>
 https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project <br>
 How to add continuous security validation to your CI/CD pipeline <br>
 https://docs.microsoft.com/en-us/azure/devops/migrate/security-validation-cicd-pipeline?view=azure-devops <br>
 This is an example of how to integrate ZAP into the Jenkins pipeline <br>
-https://www.we45.com/blog/how-to-integrate-zap-into-jenkins-ci-pipeline-we45-blog <br>
-This capability may be in the same group as the one provided by: <br>
-. ImmuniWeb <br>
-. ZAP (OWASP) <br>
-. Burp Suite
+https://www.we45.com/blog/how-to-integrate-zap-into-jenkins-ci-pipeline-we45-blog
 <br>
 <br>
 <br>
@@ -610,9 +610,9 @@ Penetration test. Security.
 ## Description 
 PentestGPT is a penetration testing tool empowered by ChatGPT. It is designed to automate the penetration testing process. It is built on ChatGPT and operates in an interactive mode to guide penetration testers in overall progress and specific operations.	 <br>
 This capability may be in the same group as the one provided by: <br>
-. ImmuniWeb
-. ZAP (OWASP)
-. Burp Suite
+. ImmuniWeb <br>
+. ZAP (OWASP) <br>
+. Burp Suite  <br>
 ## Resources
 https://github.com/GreyDGL/PentestGPT
 <br>
@@ -624,9 +624,9 @@ Quality Assurance. Security
 ## Description 
 Burp Suite is a penetration testing tool. It is the preferred tool by Apple Store to test Applications before they are listed in the Apple Store.	 <br>
 This capability may be in the same group as the one provided by: <br>
-. ImmuniWeb
-. ZAP (OWASP)
-. Burp Suite
+. ImmuniWeb  <br>
+. ZAP (OWASP)  <br>
+. Burp Suite  <br>
 ## Resources
 Burp Suite <br>
 https://portswigger.net/
@@ -637,14 +637,14 @@ https://portswigger.net/
 ## Category 
 Security. Pentest. 
 ## Description 
-Minimalistic and simple web server validation for security-related configuration. ImmuniWeb provides a free API to test your web server for security-related configuration.
-ImmuniWeb
-. ZAP (OWASP)
-. Burp Suite
-## Resources
-Free and paid API versions are available.	  <br>
-https://www.immuniweb.com/websec/#api <br>
+Minimalistic and simple web server validation for security-related configuration. ImmuniWeb provides a free API to test your web server for security-related configuration.<br>
 This capability may be in the same group as the one provided by: <br>
+. ImmuniWeb  <br>
+. ZAP (OWASP)  <br>
+. Burp Suite  <br>
+## Resources
+Free and paid API versions are available.	<br>
+https://www.immuniweb.com/websec/#api
 <br>
 <br>
 <br>
@@ -686,8 +686,8 @@ Security, Scan cloud infrastructure configurations.
 ## Description
 The "Secure DevOps Kit for Azure" (will be referred to as 'AzSK') is a collection of scripts, tools, extensions, automation, etc. that caters to the end-to-end Azure subscription and resource security needs for dev ops teams using extensive automation and smoothly integrating security into native dev-ops workflows helping accomplish secure dev-ops.<br>
 This capability may be in the same group as the one provided by: <br>
-. Secure DevOps Kit for Azure
-. Microsoft Security Analysis
+. Secure DevOps Kit for Azure   <br>
+. Microsoft Security Analysis   <br>
 ## Resources
 Secure DevOps Kit for Azure <br>
 https://azsk.azurewebsites.net/ <br>
@@ -704,8 +704,8 @@ Security.  It scans cloud infrastructure configurations.
 ## Description 
 The Microsoft Security Code Analysis Extension is an Azure DevOps Services platform task collection. These tasks automatically download and run secure development tools in the build pipeline. The extension is now in a Private Preview (by invitation).	 <br>
 This capability may be in the same group as the one provided by: <br>
-. Secure DevOps Kit for Azure
-. Microsoft Security Analysis
+. Secure DevOps Kit for Azure   <br>
+. Microsoft Security Analysis   <br>
 ## Resources
 https://secdevtools.azurewebsites.net/
 <br>
@@ -912,8 +912,8 @@ Compliance
 ## Description
 Open Source License compliance checker. The FOSSology Project is a Free Open Source Software (FOSS) project built around an open and modular architecture for analyzing software for open-source software governance. Existing modules include license scanning, copyright and user identification, license classification and metadata extraction. <br>
 This capability may be in the same group as the one provided by: <br> 
-. Fossology
-. WhiteSource
+. Fossology   <br>
+. WhiteSource   <br>
 ## Resources
 Read more about open-source license concerns: <br> 
 https://softwareengineering.stackexchange.com/questions/47032/can-i-use-gpl-software-in-a-commercial-application  <br> 
@@ -929,8 +929,8 @@ Compliance
 ## Description
 Open Source License compliance checker.. WhiteSource automates the entire open source component selection process, approval and management, including detection and remediation of security and compliance issues. It integrates with all stages of your software development lifecycle (SDLC) to alert you in real time and help you fix issues faster and easier. <br>
 This capability may be in the same group as the one provided by:<br>
-. Fossology
-. WhiteSource
+. Fossology   <br>
+. WhiteSource   <br>
 ## Resources
 Read more about open-source license concerns: <br>
 https://softwareengineering.stackexchange.com/questions/47032/can-i-use-gpl-software-in-a-commercial-application <br>
