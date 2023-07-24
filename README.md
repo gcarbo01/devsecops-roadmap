@@ -6,29 +6,51 @@ Each tool may be applicable for one or more capabilities. So they are tagged by 
 <br>
 <br>
 <br>
-**Sonarqube (JavaScript and many languages)**	
+
+#References
+**There are curated lists on the internet that can be taken as a reference also and see if there are interesting tools **
+**DevSecOps links** <br>
+https://github.com/TaptuIT/awesome-devsecops <br>
+https://github.com/sottlmarek/DevSecOps <br>
+https://github.com/wmariuss/awesome-devops <br>
+https://github.com/oxsecurity/megalinter 
+<br>
+<br>
+**DevOps links**
+https://reconshell.com/awesome-devops/<br> 
+https://github.com/eon01/DevOpsLinks-Is-Awesome <br> 
+<br>
+**DevSecOps GitHub marketplace** <br>
+https://github.com/marketplace <br>
+<br>
+**Security Tools – mega list collection**<br>
+https://linuxsecurity.expert/security-tools/<br> 
+<br>
+<br>
+<br>
+# **Sonarqube (JavaScript and many languages)**	
 <br><br>
-Category:<br> 
+## Category:<br> 
 Static Code Analyzer
 <br><br>
-Comments:<br>
+## Comments:<br>
 Source code quality	Open source static code analyser	
 <br><br>
-Resources:<br>
+## Resources:<br>
 Sonarqube JavaScript <br>
 https://docs.sonarqube.org/display/PLUG/SonarJS
 <br>
 <br>
 <br>
-**Sonarqube (.net framework)**	
+# **Sonarqube (.net framework)**	
 <br><br>
-Category:<br> 
+## Category:<br> 
 Static Code Analyzer
 <br><br>
-Comments:<br> 
+## Comments:<br> 
 Source code quality	Open source static code analyser	
 <br><br>
-Resources:<br>
+## Resources:<br>
 Sonarqube .net framework <br>
 https://docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner+for+MSBuild
 <be>
