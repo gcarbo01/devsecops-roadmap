@@ -61,7 +61,7 @@ https://linuxsecurity.expert/security-tools/<br>
 (JavaScript, .Net, Java and many other languages)
 ## Category
 Static Code Analyzer
-## Comments
+## Description
 Source code quality	Open source static code analyser	
 ## Resources
 Sonarqube JavaScript <br>
@@ -75,7 +75,7 @@ https://docs.sonarqube.org/display/PLUG/SonarJava
 # HTMLhint
 ## Category
 Static Code Analyzer
-## Comments 
+## Description 
 Source code quality. Static Code Analyser for Web Applications and Single Page Applications	
 ## Resources
 https://htmlhint.io/ <br>
@@ -86,7 +86,7 @@ https://github.com/htmlhint/HTMLHint
 # Flow
 ## Category 
 Static Code Analyzer
-## Comments 
+## Description 
 Source code quality. Flow is a static type checker for JavaScript. The overall mission of Flow is to deliver an immersive coding experience for JavaScript developers—a fast edit-refresh cycle—even as the codebase evolves and grows.	
 ## Resources
 https://flow.org/ <br>
@@ -97,7 +97,7 @@ https://github.com/facebook/flow
 # SQL Fluff
 ## Category 
 Source code quality. SQL Lint
-## Comments 
+## Description 
 Source code linter specialising in SQL statements. It helps you write good SQL and catch errors and bad SQL before it hits your database.
 ## Resources
 https://docs.sqlfluff.com/en/stable/  
@@ -107,7 +107,7 @@ https://docs.sqlfluff.com/en/stable/
 # SQL Lint
 ## Category 
 Source code quality
-## Comments 
+## Description 
 Source code linter specialising in SQL statements. It helps you write good SQL and catch errors and bad SQL before it hits your database.	
 ## Resources
 SQL Linter <br>
@@ -118,7 +118,7 @@ https://github.com/joereynolds/sql-lint
 # SQL TSQLLint
 ## Category 
 Source code quality
-## Comments
+## Description
 Source code linter specialising in SQL statements. It helps you write good SQL and catch errors and bad SQL before it hits your database.
 ## Resources
 SQL Linter <br>
@@ -129,7 +129,7 @@ https://github.com/tsqllint/tsqllint
 # CSV Lint
 ## Category 
 Source code quality
-## Comments 
+## Description 
 Source code quality, Automated Testing	Check CSV files to see whether they contain the columns and types of values they should. It helps you write good SQL and catch errors and bad SQL before it hits your database.	
 ## Resources
 CSV Lint <br>
@@ -140,7 +140,7 @@ https://csvlint.io/
 # Conftest
 ## Category	
 Source code quality. Conftest tests and verifies configuration files.
-## Comments 
+## Description 
 It is a tool for writing tests against structured configuration data. It relies on Open Policy Agent's Rego language to write configuration tests. For example, Kubernetes configurations, Tekton pipeline definitions or even Terraform plans. Or any other JSON file.	
 ## Resources
 https://www.conftest.dev/
@@ -150,7 +150,7 @@ https://www.conftest.dev/
 # Accessibility Design linter practice
 ## Category	
 Source code quality		
-## Comments 
+## Description 
 Automate accessibility design verification
 ## Resources
 https://www.microsoft.com/design/inclusive/
@@ -161,7 +161,7 @@ https://www.digitala11y.com/free-accessibility-linters-to-automate-accessibility
 # Google Lighthouse
 ## Category 
 Source code quality
-## Comments 
+## Description 
 It is a tool written by Google to assess web applications and web pages, collecting performance metrics and insights on good development practices.
 ## Resources
 https://developer.chrome.com/docs/lighthouse/overview/ <br>
@@ -172,7 +172,7 @@ https://github.com/GoogleChrome/lighthouse
 # Bazel
 ## Category 
 Interoperability
-## Comments 
+## Description 
 CI-CD scripting pipeline language. Build portable pipelines and configurations using a scripting language that allows changing the underlying CI-CD technology.	
 ## Resources
 CI-CD tool and platform-independent scripting language. <br>
@@ -183,7 +183,7 @@ https://bazel.build/
 # Elastic APM	Open Telemetry
 ## Category 
 Dashboard.
-## Comments 
+## Description 
 Elastic Search provides a protocol to inject and display open telemetry to a dashboard. 
 This is useful for the case it is required to create a custom dashboard from the CI-CD pipeline execution itself. 
 ## Resources
@@ -197,7 +197,7 @@ https://www.elastic.co/apm
 ## Category 
 Optimisation Cost, Infrastructure Architecture Cost Calculation Simulation, Infrastructure Architecture Cost Optimisation 
 Infrastructure Architecture Budget control 
-## Comments 
+## Description 
 CI-CD pipeline component: <br> 
 . create or modify budgets <br> 
 . run cost forecasting calculation considering the already consumed budget <br> 
@@ -224,7 +224,7 @@ https://docs.microsoft.com/en-us/rest/api/consumption/budgets
 # Harness
 ## Category 
 Cloud Cost Optimisation	Cost.	Infrastructure Architecture Cost Calculation Simulation,  Infrastructure Architecture Cost Optimisation 
-## Comments 
+## Description 
 Infrastructure Architecture Budget control 
 ## Resources
 https://harness.io/ 
@@ -234,7 +234,7 @@ https://harness.io/
 # Infracost
 ## Category 
 Cost management	
-## Comments
+## Description
 It makes cost trade-offs visible in Terraform pull requests. It's open-source software and supports pricing for AWS, GCP and Microsoft Azure out of the box. It also provides a public API that can be queried for current cost data. Note: There has to be a bridge integration program to get the cost and publish it in MS Teams or Slack for approval.
 ## Resources
 https://www.infracost.io/ <br>
@@ -245,7 +245,7 @@ https://github.com/infracost/infracost
 # Terracost
 ## Category	
 Cost management.
-## Comments 
+## Description 
 Cloud cost estimation for Terraform as cli tool.
 ## Resources
 https://github.com/cycloidio
@@ -255,7 +255,7 @@ https://github.com/cycloidio
 # Kanban wall issues integration
 ## Category 
 Continue Delivery, Integration of the CI pipeline with Kanban wall issues.
-## Comments
+## Description
 Enable a full Continuous Delivery lifecycle to open/update issues automatically from the Continue Integration pipeline. These are provided as an example:
 ## Resources
 Jenkins: <br>
@@ -273,7 +273,7 @@ See the “Work Item Tracking” section.
 # OpenSCAP
 ## Category 
 Container scanning
-## Comments
+## Description
 SCAP stand for Security Content Automation Protocol (from the National Institute of Standards and Technology – NIST –). It is a tool that provides built-in support for this industry-standard, open-source compliance assessment tool that enables users to quickly add compliance scanning and automated report generation to their pipelines. OpenSCAP executes CIS Benchmarks against hardened images. The benchmarks request different levels of hardening for different types of industries. The benchmark applies to open-sourced software and commercial software images also. They extend to Operating Systems, Server Software, Cloud Providers, Mobile Devices, Network Devices, Desktop Software Multi-Function Print Devices.	
 ## Resources
 OpenSCAP  <br>
@@ -292,7 +292,7 @@ https://medium.com/swlh/hardening-images-on-cloud-b4269944ee6c
 # ServerSpec
 ## Category 
 Test Driven Design. ServerSpec - Test Driven Design for containers
-## Comments
+## Description
 Test the configurations of containers. Allow fast refactoring of infrastructure. It tests your servers’ actual state by executing commands locally via SSH, WinRM, Docker API, etc. So you don’t need to install any agent software on your servers and can use any configuration management tools, Puppet, Ansible, CFEngine, Itamae, etc.
 For example: <br> 
 . Verify that the container is rootless <br> 
@@ -317,7 +317,7 @@ https://documentation.suse.com/sles/12-SP4/html/SLES-all/cha-apparmor-intro.html
 # Anchore
 ## Category 
 Security, Reliability, Docker container vulnerability scanning, 
-## Comments
+## Description
 This capability may be in the same group as the one provided by: <br>
 . Anchore
 . Clair
@@ -328,7 +328,7 @@ https://anchore.com/opensource/
 <br>
 # Clair
 ## Category Security, Reliability, Docker containers vulnerability scanning.
-## Comments
+## Description
 This capability may be in the same group as the one provided by: <br>
 . Anchore
 . Clair
@@ -340,7 +340,7 @@ https://github.com/coreos/clair
 # Kubectl-kubesec
 ## Category 
 Security, Reliability
-## Comments
+## Description
 It is a security risk analysis for Kubernetes resources	kubectl-kubesec
 ## Resources
 https://github.com/controlplaneio/kubectl-kubesec
@@ -350,7 +350,7 @@ https://github.com/controlplaneio/kubectl-kubesec
 # Kube bench
 ## Category 
 Security, Reliability
-## Comments
+## Description
 It is a tool for Running Kubernetes Center for Internet Security (CIS) <br>
 This capability may be in the same group as the one provided by: <br>
 . Kube bench <br> 
@@ -366,7 +366,7 @@ https://www.cisecurity.org/cis-benchmarks/
 # Kube score
 ## Category 
 Reliability, Security
-## Comments
+## Description
 Kubernetes object analysis with recommendations for improved reliability and security.	<br>
 This capability may be in the same group as the one provided by: <br>
 . Kube bench  <br> 
@@ -381,7 +381,7 @@ https://github.com/zegl/kube-score
 # Falco
 ## Category 
 Threat detection, Runtime detection engine.	
-## Comments
+## Description
 Package Hunter is a tool to analyze a program's dependencies for malicious code and other unexpected behaviour by installing the dependencies in a sandbox environment and monitoring system calls executed during the installation. Package Hunter, you could find out that a package attempted to open a network connection on installing a package.	
 The cloud-native runtime security project is the de facto Kubernetes threat detection engine. GitLab integrates this capability into their Pipeline offering as ‘Package Hunter’.
 ## Resources
@@ -393,7 +393,7 @@ https://about.gitlab.com/blog/2021/07/23/announcing-package-hunter/
 # Kube hunter
 ## Category 
 Reliability, Security
-## Comments
+## Description
 It hunts for security weaknesses in Kubernetes clusters	<br>
 This capability may be in the same group as the one provided by: <br>
 . Kube bench  <br> 
@@ -407,7 +407,7 @@ https://github.com/aquasecurity/kube-hunter
 # Binary Repository Manager
 ## Category 
 Business Continuity	
-## Comments 
+## Description 
 This is fundamental to reproducing an already deployed environment if it needs to be reconstructed. Keeps the packages and binaries that have been deployed. 
 ## Resources
 https://azure.microsoft.com/en-au/services/devops/artifacts/ <br>
@@ -422,7 +422,7 @@ https://xebialabs.com/the-ultimate-devops-tool-chest/repository-management/
 # Pact
 ## Category 
 Contract tests - Integration test alternative	pact - contract testing tool (only for HTTP messages)
-## Comments 
+## Description 
 Pact is a code-first tool for testing HTTP and message integrations using contract tests. Contract tests assert that inter-application messages conform to a shared understanding documented in a contract. Without contract testing, the only way to ensure that applications will work correctly is by using expensive and brittle integration tests.	
 ## Resources
 https://github.com/pact-foundation <br>
@@ -437,7 +437,7 @@ https://platform.deloitte.com.au/articles/automate-kafka-testing
 # Karate
 ## Category 
 Regression test
-## Comments 
+## Description 
 Kafka integration automated regression test. Regression test. Automate Integration, Unit and End to End testing programmatically. 	 <br>
 This capability may be in the same group as the one provided by: <br>
 . Kafka automates testing <br>
@@ -450,7 +450,7 @@ https://github.com/intuit/karate/
 # Microcks
 ## Category 
 Kafka integration automated regression test.
-## Comments
+## Description
 Regression test	Automate Publisher and subscriber regression testing	
 ## Resources
 Microcks <br>
@@ -473,7 +473,7 @@ https://site.mockito.org/
 # Testcontainers
 Category 
 Regression test	Testcontainers 
-## Comments 
+## Description 
 Useful for creating a reliable environment for running regression tests. It creates containerized instances of any database (MySQL, PostgreSQL, Oracle, etc) with data. So that it is possible to run regression tests starting with a known DB state.  This concept can also be applied to message queues, caching services, vault secret management, etc.	
 ## Resources
 Testcontainers <br>
@@ -490,7 +490,7 @@ https://www.testcontainers.org/modules/webdriver_containers/
 # Mobile test automation
 ## Category 
 Quality assurance
-## Comments 
+## Description 
 Test automation for a mobile native application, hybrid and reactive application
 ## Resources
 http://appium.io/
@@ -503,7 +503,7 @@ https://www.testingexcellence.com/open-source-mobile-test-automation-tools/
 # Load Test
 ## Category 
 Quality Assurance
-## Comments 
+## Description 
 Load testing an application generally means measuring performance with a specific predetermined amount of load. This is a good way to ensure you have yet to introduce a change that has impacted your overall application. For example, a 20 per cent increase in response time probably doesn’t generate a monitoring alert, but it may be killing your business.	
 ## Resources
 https://www.microfocus.com/en-us/products/loadrunner-load-testing/overview <br>
@@ -520,7 +520,7 @@ https://flood.io/
 # Smoke testing
 ## Category 
 Quality Assurance
-## Comments 
+## Description 
 After the application is deployed, it’s ideal to have a series of automated sets of basic functionality tests to ensure that the system is up and functional.	Run unit tests after deployments.
 <br>
 <br>
@@ -528,7 +528,7 @@ After the application is deployed, it’s ideal to have a series of automated se
 # Stress testing
 ## Category 
 Quality assurance
-## Comments 
+## Description 
 This test determines how much load your system can take before it fails. Same as the Load Test tools list.
 <br>
 <br>
@@ -536,7 +536,7 @@ This test determines how much load your system can take before it fails. Same as
 # Soak testing
 ## Category 
 Quality Assurance.	
-## Comments 
+## Description 
 This test ensures that your system keeps running under a sustained load. I saw a system once that seemed to perform well on a short performance test, but growing message queues added up over time, making it slower and slower. Memory leaks are also a common cause of issues on soak tests.	Same as the Load Test tools list
 <br>
 <br>
@@ -544,7 +544,7 @@ This test ensures that your system keeps running under a sustained load. I saw a
 # Spike testing
 ## Category 
 Quality Assurance	
-## Comments 
+## Description 
 This test is done by suddenly increasing the load on a system and seeing what happens. This is the type of testing that can be very important when the infrastructure is using dynamic containers. Same as the Load Test tools list.
 <br>
 <br>
@@ -552,7 +552,7 @@ This test is done by suddenly increasing the load on a system and seeing what ha
 # Fuzz Testing
 ## Category 
 Quality Assurance	
-## Comments 
+## Description 
 This type of testing is about using invalid and unpredictable input parameters. There are tools for APIs for code. Some of the tools also implement a scripting language that helps the tool validate the expected conditions and results. It is a must-have when developing smart contracts with solidity. This type of tool is applied to a library, and it will instrument it to know at runtime the parameters and the execution paths that can take. With this data, the tool invents its parameters and tries to execute all the possible execution paths. The tool can affect performance. Therefore should not be deployed in production permanently. 	
 ## Resources
 OWASP – Fuzz testing<br>
@@ -563,7 +563,7 @@ https://owasp.org/www-community/Fuzzing
 # FuzzyTesting – javascript
 ## Category 
 Quality Assurance	
-## Comments  
+## Description  
 Fuzzy testing tool.
 ## Resources
 https://www.npmjs.com/package/fuzzy-testing<br>
@@ -577,7 +577,7 @@ https://docs.scribble.codes/
 # ZAP (OWASP) Penetration test
 ## Category 
 Security	
-## Comments 
+## Description 
 OWASP ZAP is a free penetration testing tool. Web Application Vulnerability Scanners are automated tools that scan web applications from the outside to look for security vulnerabilities such as Cross-site scripting, SQL Injection, Command Injection, Path Traversal and insecure server configuration. This tool category is frequently called Dynamic Application Security Testing (DAST) Tools.	
 ## Resources
 OWASP Zed Attack Proxy Project - PenTest <br>
@@ -596,7 +596,7 @@ This capability may be in the same group as the one provided by: <br>
 # Automatic API Attack Tool
 ## Category 
 Security, Penetration test
-## Comments 
+## Description 
 It is a customizable API attack tool that takes an API specification as an input and generates and runs attacks based on it as an output.
 ## Resources
 Imperva’s Automatic API Attack Tool – Github <br>
@@ -607,7 +607,7 @@ https://github.com/imperva/automatic-api-attack-tool
 # PentestGPT
 ## Category 
 Penetration test. Security.	
-## Comments 
+## Description 
 PentestGPT is a penetration testing tool empowered by ChatGPT. It is designed to automate the penetration testing process. It is built on ChatGPT and operates in an interactive mode to guide penetration testers in overall progress and specific operations.	 <br>
 This capability may be in the same group as the one provided by: <br>
 . ImmuniWeb
@@ -621,7 +621,7 @@ https://github.com/GreyDGL/PentestGPT
 # Burp Suite
 ## Category 
 Quality Assurance. Security	 
-## Comments 
+## Description 
 Burp Suite is a penetration testing tool. It is the preferred tool by Apple Store to test Applications before they are listed in the Apple Store.	 <br>
 This capability may be in the same group as the one provided by: <br>
 . ImmuniWeb
@@ -636,7 +636,7 @@ https://portswigger.net/
 # ImmuniWeb
 ## Category 
 Security. Pentest. 
-## Comments 
+## Description 
 Minimalistic and simple web server validation for security-related configuration. ImmuniWeb provides a free API to test your web server for security-related configuration.
 ImmuniWeb
 . ZAP (OWASP)
@@ -651,7 +651,7 @@ This capability may be in the same group as the one provided by: <br>
 # Growthbook
 ## Category 
 Feature Flagging. A/B Testing Platform	Open Sourced
-## Comments
+## Description
 It is a Feature Flagging tool similar to LaunchDarkly.
 ## Resources
 A/B Testing Platform  <br>	
@@ -662,7 +662,7 @@ https://github.com/growthbook/growthbook
 # Checkov
 ## Category 
 Security. CSPM.	
-## Comments 
+## Description 
 It scans cloud infrastructure configurations. IaaC security validation. Static configuration scanning. It finds misconfigurations before they are deployed.	Platform and cloud-independent tool. It can scan cloud infrastructure configurations to find misconfigurations before they're deployed. Checkov uses a command-line interface to manage and analyze infrastructure as code (IaC) scans results across platforms such as Terraform, CloudFormation, Kubernetes, Helm, ARM Templates and Serverless framework.
 ## Resources
 https://www.checkov.io/ 
@@ -672,7 +672,7 @@ https://www.checkov.io/
 # Cloud Custodian
 ## Category 
 Security. CSPM. 
-## Comments 
+## Description 
 It scans cloud infrastructure configurations. IaaC security validation. Static configuration scanning. It finds misconfigurations before they are deployed. Platform and cloud-independent tool.
 ## Resources
 https://cloudcustodian.io/ <br>
@@ -683,7 +683,7 @@ https://cloudcustodian.io/docs/azure/resources/index.html
 # Secure DevOps Kit for Azure
 ## Category 
 Security, Scan cloud infrastructure configurations.
-## Comments
+## Description
 The "Secure DevOps Kit for Azure" (will be referred to as 'AzSK') is a collection of scripts, tools, extensions, automation, etc. that caters to the end-to-end Azure subscription and resource security needs for dev ops teams using extensive automation and smoothly integrating security into native dev-ops workflows helping accomplish secure dev-ops.<br>
 This capability may be in the same group as the one provided by: <br>
 . Secure DevOps Kit for Azure
@@ -701,7 +701,7 @@ https://github.com/azsdk/azsdk-docs
 # Microsoft Security Code Analysis
 ## Category	
 Security.  It scans cloud infrastructure configurations.
-## Comments 
+## Description 
 The Microsoft Security Code Analysis Extension is an Azure DevOps Services platform task collection. These tasks automatically download and run secure development tools in the build pipeline. The extension is now in a Private Preview (by invitation).	 <br>
 This capability may be in the same group as the one provided by: <br>
 . Secure DevOps Kit for Azure
@@ -714,7 +714,7 @@ https://secdevtools.azurewebsites.net/
 # Slack - Integration
 ## Category 
 Productivity, Governance, Integration with workplace collaboration tools
-## Comments 
+## Description 
 Build-pipelines' output can be associated with Slack channels to inform about fails and pass runs. 
 It can also provide visibility to architects and managers about the build process to exercise governance. 	
 ## Resources
@@ -727,7 +727,7 @@ https://docs.microsoft.com/en-us/azure/devops/pipelines/integrations/slack?view=
 # ServiceNow - Integration
 ## Category 
 Incident management. Governance	Integration with Incident Management
-## Comments 
+## Description 
 Set up and manage subscriptions for completed builds, releases, pending approvals and more from the app and get notifications for these events in your Slack channels.	
 ## Resources
 https://docs.microsoft.com/en-us/azure/devops/pipelines/release/approvals/servicenow?view=azure-devops
@@ -737,7 +737,7 @@ https://docs.microsoft.com/en-us/azure/devops/pipelines/release/approvals/servic
 # Kube Hunter
 ## Category 
 Security, Penetration testing. 
-## Comments 
+## Description 
 This tool is specific for containers running in Kubernetes 	Kubernetes specific Penetration Test – PenTest
 ## Resources
 http://techgenix.com/kubernetes-security-tools/  <br>
@@ -749,7 +749,7 @@ https://github.com/aquasecurity/kube-hunter
 # Kube bench
 ## Category 
 Security	
-## Comments
+## Description
 Kube-bench is a Go application that checks whether Kubernetes is deployed securely by running the checks documented in the CIS Kubernetes Benchmark.
 ## Resources
 Kubernetes-specific vulnerability tool – Vulnerability tool <br>
@@ -762,7 +762,7 @@ https://www.cisecurity.org/benchmark/kubernetes/
 # LiquidBase
 ## Category 
 DataOps, Source code quality. CI-CD for Database Changes 
-## Comments 
+## Description 
 Liquid base is a database-independent library for tracking, managing and applying database schema changes.	
 ## Resources
 https://github.com/liquibase/liquibase/ 
@@ -771,7 +771,7 @@ https://github.com/liquibase/liquibase/
 <br>
 # Renovate
 ## Category Source code quality
-## Comments 
+## Description 
 It is an enhanced version of what dependabot does. It is an open-source tool that automatically creates pull requests for all dependency updates. Includes crowdsourced test and package adoption data used to flag potentially risky updates and enable auto-merging for those that meet user-defined conditions.
 It Scans your repos to detect dependencies (wide package manager support). It Checks if any newer versions exist. And then Raises PRs for available updates.
 Save time and reduce risk by automating dependency updates in software projects. Fully customizable with a setting to suit every workflow.	
@@ -785,7 +785,7 @@ https://github.com/renovatebot/renovate
 # Dependabot
 ## Category 
 Security. Source code quality
-## Comments 
+## Description 
 Dependabot is a GitHub app that automates dependency updates. Every day, Dependabot pulls down your dependency files and looks for outdated requirements. If any dependencies are out-of-date, Dependabot opens individual pull requests to bump each one.	
 ## Resources
 https://dependabot.com/ <br>
@@ -796,7 +796,7 @@ https://dependabot.com/blog/introducing-dependabot/
 # Sentry
 ## Category 
 Source code quality. Quality assurance
-## Comments 
+## Description 
 It is an Open-source error tracking that helps developers monitor and fix crashes in real time. Iterate continuously. Boost efficiency. Improve user experience.	
 ## Resources
 https://docs.sentry.io/ <br>
@@ -808,7 +808,7 @@ https://blog.sentry.io/2018/09/18/sentry-azure-devops-integration-update
 # Code forensics
 ## Category 
 Security, Governance
-## Comments 
+## Description 
 Source code quality	Toolset for analysing codebases stored in a version control system. It leverages the repository logs, or version history data, to perform deep analyses regarding complexity, logical coupling, and authors coupling and to inspect the evolution in time of different parts of a software system concerning metrics like code churn and the number of revisions.	
 ## Resources
 https://www.npmjs.com/package/code-forensics <br> 
@@ -819,7 +819,7 @@ https://github.com/smontanari/code-forensics
 # Architecture Unit
 ## Category 
 Governance. Source code quality.
-## Comments
+## Description
 It implements compilation assertion rules to static code packages. Application architecture and Project structure code analyser based on flexible architecture principle rules. It can check that packages do not include or have static dependencies with libraries from other packages. Each of the packages is meant to be deployable code based for different modules of the architecture.	
 ## Resources
 Java Library (Original Project) <br> 
@@ -834,7 +834,7 @@ https://github.com/manjericao/ArchUnitNode
 # Binskim
 ## Category 
 Security, Package analyser for NuGet packages.
-## Comments
+## Description
 A binary static analysis tool that provides security and correctness results for Windows Portable Executable and *nix ELF binary formats (.Net framework NuGet packages)	
 ## Resources
 https://github.com/Microsoft/binskim
@@ -844,7 +844,7 @@ https://github.com/Microsoft/binskim
 # Powerfulseal
 ## Category 
 Reliability	
-## Comments
+## Description
 These tools inject failure into your Kubernetes clusters so that you can detect problems as early as possible. It allows for writing scenarios describing complete chaos experiments.
 ## Resources
 https://dzone.com/articles/chaos-mesh-a-chaos-engineering-solution-for-system <br> 
@@ -860,7 +860,7 @@ https://github.com/target/pod-reaper
 # Chaos Toolkit
 ## Category 
 Reliability, Infrastructure resiliency.
-## Comments
+## Description
 The Chaos Toolkit is a toolkit to describe and then run repeatable experiments on your infrastructure to understand its resilience in the event of failure. It is an open-source project dedicated to the practice. The toolkit already has drivers for AWS, Azure Service Fabric and GCE (among others) and plays nicely with build tools that let you experiment with automation. The usual caveats apply; Chaos Engineering is a powerful technique best used on resilience-aware systems, systems built to cope with failure. Therefore, we recommend using Chaos Toolkit in your nonproduction environments first.	Based on the recommendations for chaos engineering for Kubernetes book: “The DevOps Toolkit Kubernetes Chaos Engineering (2020)” by Viktor Farcic and Darin Pope. Gremlin Reliability. Gremlin provides a unique tool that allows infiltrating the Kafka brokers to produce artificial instability that allows an understanding of how the system recovers.	
 ## Resources
 https://chaostoolkit.org/ <br>
@@ -881,7 +881,7 @@ https://www.gremlin.com/community/tutorials/the-first-4-chaos-experiments-to-run
 # CodeScene
 ## Category 
 Source code quality	
-## Comments 
+## Description 
 CodeScene is a behavioural code analysis tool. It provides code visualizations based on version-control data and machine-learning algorithms that identify social patterns and hidden risks in code. It detects hotspots—complex code that an organization has to work with frequently—and prioritizes technical debt based on how the developers work with the code.	
 ## Resources
 https://codescene.io/
@@ -891,7 +891,7 @@ https://codescene.io/
 # Letsencrypt
 ## Category 
 Cost Management, Security. 
-## Comments 
+## Description 
 Integrate letsencrypt certificates to the CI-CD. Fastrack the creation and the management of certificates for new environments by having a secure, cheaper and faster process to request, deploy and operate lifecycle management of digital certificates using letsencrypt certificates lifecycle management APIs.	
 ## Resources
 https://letsencrypt.org/ <br> 
@@ -909,7 +909,7 @@ https://github.com/jetstack/cert-manager
 # Fossology
 ## Category 
 Compliance	
-## Comments
+## Description
 Open Source License compliance checker. The FOSSology Project is a Free Open Source Software (FOSS) project built around an open and modular architecture for analyzing software for open-source software governance. Existing modules include license scanning, copyright and user identification, license classification and metadata extraction. <br>
 This capability may be in the same group as the one provided by: <br> 
 . Fossology
@@ -926,7 +926,7 @@ https://sourceforge.net/projects/fossology/ <br>
 # WhiteSource
 ## Category 
 Compliance	
-## Comments
+## Description
 Open Source License compliance checker.. WhiteSource automates the entire open source component selection process, approval and management, including detection and remediation of security and compliance issues. It integrates with all stages of your software development lifecycle (SDLC) to alert you in real time and help you fix issues faster and easier. <br>
 This capability may be in the same group as the one provided by:<br>
 . Fossology
@@ -941,7 +941,7 @@ https://www.whitesourcesoftware.com/
 # Operation automation
 ## Category 
 Operation automation. Operation events automation
-## Comments
+## Description
 This is an IFTTT specialised tool for CI/CD automation. Capture incidents and events from environments and automate actions.	
 
 ## Resources
@@ -953,7 +953,7 @@ https://www.rundeck.com/
 # CI/CD Standards
 ## Category 
 Tools interoperability.	CI/CD standards.  Standardisation
-## Comments
+## Description
 Adopt CI/CD emerging standards to avoid vendor locking, portability and interoperability. Linux Foundation has recently created a project called “CD Foundation”, which industry leaders have backed up. This is recent news, and nothing has come up yet from this forum. Vendors also are coming with open technologies to allow CD components interoperability. CDEvents is a common specification for Continuous Delivery events, enabling interoperability in the complete software production ecosystem. It's an incubated project at the Continuous Delivery Foundation (CDF). 	
 ## Resources
 https://www.linuxfoundation.org/Projects/cd-foundation/ <br> 
@@ -967,7 +967,7 @@ https://www.spinnaker.io/
 # PlantUML
 ## Category 
 Diagrams as code. Productivity. Governance.
-## Comments
+## Description
 It is a library that allows the creation of UML diagrams using a scripted language. PlantUML uses a graphic rendering engine Graphviz. There has to be implemented a bridge program that interprets the source and translates it to the graphical scripting language. The idea is to hook this tool into the CI-CD pipeline so that each deployment's basic diagrams and documentation are self-generated.
 ## Resources
 PlantUML  <br> 
@@ -982,7 +982,7 @@ https://www.npmjs.com/package/node-plantuml
 # K8s-diagrams
 ## Category 
 Diagrams as code, Productivity, Governance
-## Comments
+## Description
 Documentation	K8s-diagrams. A tool that allows creating diagrams by pointing them to a Kubernetes cluster or Kubernetes namespace. It uses the PlantUML engine, although it does not conform to UML but its standards. It uses the official Kubernetes master icon set. The idea is to hook this tool into the CI-CD pipeline so that each deployment's basic diagrams and documentation are self-generated.	
 ## Resources
 K8s-diagrams <br>
@@ -995,7 +995,7 @@ https://github.com/kubernetes/community/tree/master/icons
 # Mingrammer
 ## Category 
 Diagrams as code, Productivity, Governance
-## Comments
+## Description
 It is a tool to automatically create diagrams from cloud infrastructure, including Azure and Kubernetes. It recommends extracting the data from the infrastructure using cloudiscovery tool. There has been implemented bridge program that interprets the source and translates it to the graphical scripting language. The idea is to hook this tool into the CI-CD pipeline so that each deployment's basic diagrams and documentation are self-generated.	
 ## Resources
 Diagrams mingrammer <br>
@@ -1010,7 +1010,7 @@ https://github.com/Cloud-Architects/cloudiscovery
 # Mermaid-js
 ## Category 
 Diagrams as code, Productivity, Governance.
-## Comments
+## Description
 The tool generates UML diagrams, and other project management diagrams (Gantt) from a scripting language. There has been implemented bridge program that interprets the source and translates it to the graphical scripting language. The idea is to hook this tool into the CI-CD pipeline so that each deployment's basic diagrams and documentation are self-generated.	
 ## Resources
 Mermaid-js <br>
@@ -1026,7 +1026,7 @@ https://www.npmjs.com/package/mermaid
 Enterprise asset management (EAM) - Diagrams as code
 ## Category 
 Productivity, Governance. Documentation	
-## Comments 
+## Description 
 Integrate CI/CD and build the pipeline to the iServer metadata repository. All these can be captured and fed to the iServer repository while processing in CI-CD. This information can be translated to enterprise model standards (TOGAF, ArchiMate, UML).You may need to do a POC for this. Achieve having updated data in the EAM to have “living documents”. At the time of building application components and systems, it is possible to capture valuable information about: <br> 
 . Infrastructure configuration <br> 
 . Applications components <br> 
@@ -1063,7 +1063,7 @@ https://github.com/terraform-providers/terraform-provider-azurerm/tree/master/ex
 # DoBetterAsCode
 ## Category 
 Source code quality
-## Comments
+## Description
 This capability aligns with the one presented in the “Infrastructure as a Code” book by Kief Morris. They propose incorporating coding excellency into the code that creates infrastructure in the cloud due to running. They use the standards of the “Clean Code” book from 2008 as the guiding principle for these coding standards. All this initiative tries to follow the master idea of Continuous Delivery which is described in the book “Continuous Delivery (2011)” <br>
 . Clean Code (2008) <br>
 . Infrastructure as Code Managing Servers in the Cloud (2016) <br>
@@ -1095,7 +1095,7 @@ DoBetterAsCode  Tools and ## Resources  https://dobetterascode.com/resources/
 # Sigstore
 ## Category 
 Security, Supply chain security	Sigstore
-## Comments
+## Description
 It is a set of free-to-use and open-source tools, including fulcio, cosign and rekor, handling digital signing, verification and checks for provenance needed to make it safer to distribute and use open-source software	
 ## Resources
 Sigstore <br>
@@ -1106,7 +1106,7 @@ https://www.sigstore.dev/
 # Preflight
 ## Category 
 Security. Supply chain security	Preflight
-## Comments
+## Description
 It helps you verify scripts and executables to mitigate chain of supply attacks such as the recent Codecov hack	
 ## Resources
 Preflight <br>
@@ -1117,7 +1117,7 @@ https://github.com/spectralops/preflight
 # Open Raven
 ## Category 
 Magpie	Security. CSPM	Cloud Security Posture Management (CSPM)	
-## Comments 
+## Description 
 CSPM	Cloud Security Posture Management (CSPM) Open source
 ## Resources
 Open Raven Magpie
@@ -1128,7 +1128,7 @@ https://github.com/openraven/magpie
 # Cloud Query
 ## Category 
 CSPM	Cloud Security Posture Management (CSPM)	
-## Comments 
+## Description 
 CSPM	Cloud Security Posture Management (CSPM) Open source
 ## Resources
 Cloud Query <br>
@@ -1139,7 +1139,7 @@ https://www.cloudquery.io/
 # Cloudsploit
 ## Category 
 CSPM	Cloud Security Posture Management (CSPM)	
-## Comments 
+## Description 
 Detection of security risks in cloud infrastructure
 ## Resources
 https://github.com/aquasecurity/cloudsploit
@@ -1149,7 +1149,7 @@ https://github.com/aquasecurity/cloudsploit
 # ScoutSuite
 ## Category 
 Security, CSPM Cloud Security Posture Management (CSPM)	
-## Comments 
+## Description 
 NCCgroup is a multi-cloud scanning tool. 
 ## Resources
 https://github.com/nccgroup/ScoutSuite 
@@ -1159,7 +1159,7 @@ https://github.com/nccgroup/ScoutSuite
 # CloudCustodian
 ## Category 
 Security, CSPM	Cloud Security Posture Management (CSPM)		
-## Comments
+## Description
 Multi-cloud security analysis framework
 ## Resources
 CloudCustodian <br>
@@ -1170,7 +1170,7 @@ https://github.com/cloud-custodian/cloud-custodian/
 # CloudGraph
 ## Category 
 Security, CSPM	Cloud Security Posture Management (CSPM)	
-## Comments 
+## Description 
 GraphQL API + Security for AWS, Azure, GCP, and K8s
 ## Resources
 https://github.com/cloudgraphdev/cli 
@@ -1180,7 +1180,7 @@ https://github.com/cloudgraphdev/cli
 # Cosign
 ## Category 
 Deployment Digital Signature Digest. 	
-## Comments
+## Description
 Container image signing	Deployment Object Digital Signature Digest
 ## Resources
 https://github.com/sigstore/cosign
@@ -1190,7 +1190,7 @@ https://github.com/sigstore/cosign
 # Notary
 ## Category 
 Deployment Digital Signature Digest	
-## Comments 
+## Description 
 Docker image signing	Deployment Object Digital Signature Digest
 ## Resources
 https://github.com/notaryproject/notary
@@ -1200,7 +1200,7 @@ https://github.com/notaryproject/notary
 # Terracognita
 ## Category 
 Governance, Documentation. Reverse engineer Terraform templates.
-## Comments
+## Description
 Reads from existing public and private cloud providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration	
 ## Resources
 terracognita <br>
@@ -1211,7 +1211,7 @@ https://github.com/cycloidio
 # Inframap
 ## Category 
 Documentation, Governance
-## Comments
+## Description
 It generates a graph with the most important resources of your infrastructure. Reads from a “.tfstate” file (created when you do a `terraform import`) or HCL (HashiCorp Configuration Language). It generates a DOT format.	
 ## Resources
 inframap <br>
@@ -1224,7 +1224,7 @@ https://graphviz.org/doc/info/lang.html
 # Data Linter
 ## Category 
 Data quality control.	Data quality Linter.
-## Comments
+## Description
 A tool that could be more suitable for data pipelines. However, it can be used as a quality assurance tool in the DevSecOps pipeline to ensure the integrity of an environment and to test and ensure that previous data inconsistencies are not affecting the system before deploying a new package. It is designed to read in and validate tabular data against a given schema for the data. The schemas provided adhere to our metadata schemas standards for data. Based on the validation result, this package can also manage data movement from a landing area (s3 or locally) to a new location.	
 ## Resources
 Data quality control linter <br>
@@ -1235,7 +1235,7 @@ https://pypi.org/project/data-linter/
 # Great Expectations
 ## Category 
 Data quality control. Data quality Linter.
-## Comments
+## Description
 A tool that could be more suitable for data pipelines. However, it can be used as a quality assurance tool in the DevSecOps pipeline to ensure the integrity of an environment and to test and ensure that previous data inconsistencies are not affecting the system before deploying a new package. 	
 ## Resources
 Great Expectations  <br>
@@ -1246,7 +1246,7 @@ https://github.com/great-expectations/great_expectations
 # DbUnit
 ## Category 
 Data quality control
-## Comments
+## Description
 DbUnit is a JUnit extension (also usable with Ant) targeted at database-driven projects that, among other things, puts your database into a known state between test runs. This is an excellent way to avoid the myriad of problems when one test case corrupts the database and causes subsequent tests to fail or exacerbate the damage.
 DbUnit can export and import your database data to and from XML datasets. Since version 2.0, DbUnit can also work with large datasets in streaming mode. DbUnit can also help you to verify that your database data match an expected set of values.	
 ## Resources
