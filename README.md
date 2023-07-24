@@ -351,7 +351,7 @@ https://github.com/controlplaneio/kubectl-kubesec
 ## Category 
 Security, Reliability
 ## Comments
-It is a tool for Running Kubernetes Center for Internet Security (CIS) 
+It is a tool for Running Kubernetes Center for Internet Security (CIS) <br>
 This capability may be in the same group as the one provided by: <br>
 . Kube bench <br> 
 . Kube score <br> 
@@ -367,7 +367,7 @@ https://www.cisecurity.org/cis-benchmarks/
 ## Category 
 Reliability, Security
 ## Comments
-Kubernetes object analysis with recommendations for improved reliability and security.	
+Kubernetes object analysis with recommendations for improved reliability and security.	<br>
 This capability may be in the same group as the one provided by: <br>
 . Kube bench  <br> 
 . Kube score <br> 
@@ -394,7 +394,7 @@ https://about.gitlab.com/blog/2021/07/23/announcing-package-hunter/
 ## Category 
 Reliability, Security
 ## Comments
-It hunts for security weaknesses in Kubernetes clusters	
+It hunts for security weaknesses in Kubernetes clusters	<br>
 This capability may be in the same group as the one provided by: <br>
 . Kube bench  <br> 
 . Kube score <br> 
@@ -910,7 +910,7 @@ https://github.com/jetstack/cert-manager
 ## Category 
 Compliance	
 ## Comments
-Open Source License compliance checker. The FOSSology Project is a Free Open Source Software (FOSS) project built around an open and modular architecture for analyzing software for open-source software governance. Existing modules include license scanning, copyright and user identification, license classification and metadata extraction.
+Open Source License compliance checker. The FOSSology Project is a Free Open Source Software (FOSS) project built around an open and modular architecture for analyzing software for open-source software governance. Existing modules include license scanning, copyright and user identification, license classification and metadata extraction. <br>
 This capability may be in the same group as the one provided by: <br> 
 . Fossology
 . WhiteSource
@@ -927,7 +927,7 @@ https://sourceforge.net/projects/fossology/ <br>
 ## Category 
 Compliance	
 ## Comments
-Open Source License compliance checker.. WhiteSource automates the entire open source component selection process, approval and management, including detection and remediation of security and compliance issues. It integrates with all stages of your software development lifecycle (SDLC) to alert you in real time and help you fix issues faster and easier.
+Open Source License compliance checker.. WhiteSource automates the entire open source component selection process, approval and management, including detection and remediation of security and compliance issues. It integrates with all stages of your software development lifecycle (SDLC) to alert you in real time and help you fix issues faster and easier. <br>
 This capability may be in the same group as the one provided by:<br>
 . Fossology
 . WhiteSource
