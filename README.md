@@ -1,15 +1,15 @@
 # devsecops-roadmap
 
-Intro:<br>
+#Intro:<br>
 Listed in no particular order. Do your research. Most of these tools are open-sourced and may flourish or die without notice.
 Each tool may be applicable for one or more capabilities. So they are tagged by "Category".
 <br>
 <br>
 <br>
 
-#References
-**There are curated lists on the internet that can be taken as a reference also and see if there are interesting tools **
-**DevSecOps links** <br>
+# References
+There are curated lists on the internet that can be taken as a reference also and see if there are interesting tools.<br>
+**DevSecOps links** 
 https://github.com/TaptuIT/awesome-devsecops <br>
 https://github.com/sottlmarek/DevSecOps <br>
 https://github.com/wmariuss/awesome-devops <br>
@@ -28,7 +28,7 @@ https://linuxsecurity.expert/security-tools/<br>
 <br>
 <br>
 <br>
-# **Sonarqube (JavaScript and many languages)**	
+# Sonarqube (JavaScript and many languages)
 <br><br>
 ## Category:<br> 
 Static Code Analyzer
