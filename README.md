@@ -69,8 +69,8 @@ https://docs.sonarqube.org/display/PLUG/SonarJava
 <br>
 <br>
 <br>
-## HTMLhint
-## Categor
+# HTMLhint
+## Category
 Static Code Analyzer
 ## Comments 
 Source code quality. Static Code Analyser for Web Applications and Single Page Applications	
