@@ -1020,7 +1020,8 @@ https://www.npmjs.com/package/mermaid
 <br>
 <br>
 <br>
-# Enterprise asset management (EAM) - Diagrams as code - iServer integration
+# iServer integration
+Enterprise asset management (EAM) - Diagrams as code
 ## Category 
 Productivity, Governance. Documentation	
 ## Comments 
