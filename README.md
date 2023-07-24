@@ -7,7 +7,6 @@
 </picture>
 <br>
 <br>
-## Contents
 
 ## Intro
 ### Summary
