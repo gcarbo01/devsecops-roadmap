@@ -1,5 +1,11 @@
 # devsecops-roadmap
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./images/devsecops-roadmap.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="./images/devsecops-roadmap.jpg">
+  <img alt="devsecops-roadmap" src="./images/devsecops-roadmap.jpg">
+</picture>
+
 ## Intro
 ### Summary
 For Enterprise Architects having to implement governance across projects and different groups, DevOps and DevSecOps are vital practices to consider. 
