@@ -12,7 +12,7 @@ Architects adopting DevOps consider the entire software development life cycle, 
 <br>
 **DevSecOps** <br>
 It extends DevOps by integrating security practices throughout the development life cycle, emphasizing security from design to deployment. <br>
-For Architects in governance, adopting DevSecOps ensures security is integral to architecture, seamlessly integrating security controls into development and deployment.
+It ensures security is integral to architecture, seamlessly integrating security controls into development and deployment.
 <br>
 <br>
 **Architecture Governance** <br>
