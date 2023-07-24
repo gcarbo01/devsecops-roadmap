@@ -1,7 +1,7 @@
 # devsecops-roadmap
 
-# Intro
-## Summary
+## Intro
+### Summary
 For Enterprise Architects having to implement governance across projects and different groups, DevOps and DevSecOps are vital practices to consider. <br>
 **DevOps** <br>
 It promotes collaboration and integration among development, operations, and IT teams, automating software delivery for faster and more reliable results.  <br>
@@ -16,7 +16,7 @@ DevSecOps allows addressing security concerns early, ensuring secure application
 Embracing DevOps and DevSecOps enables Architects to foster a culture of collaboration, efficiency, and security, enhancing governance and project success.
 <br>
 <br>
-## Tools and capabilities
+### Tools and capabilities
 Listed below are tools and capabilities in no particular order. Do your research. Most of these tools are open-sourced and may flourish or die without notice. <br>
 Each tool may be applicable for one or more capabilities. So they are tagged by "Category".
 <br>
