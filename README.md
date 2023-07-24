@@ -546,7 +546,7 @@ Quality Assurance
 ## Comments 
 This type of testing is about using invalid and unpredictable input parameters. There are tools for APIs for code. Some of the tools also implement a scripting language that helps the tool validate the expected conditions and results. It is a must-have when developing smart contracts with solidity. This type of tool is applied to a library, and it will instrument it to know at runtime the parameters and the execution paths that can take. With this data, the tool invents its parameters and tries to execute all the possible execution paths. The tool can affect performance. Therefore should not be deployed in production permanently. 	
 ## Resources
-OWASP – Fuzz testing
+OWASP – Fuzz testing<br>
 https://owasp.org/www-community/Fuzzing
 <br>
 <br>
@@ -557,9 +557,11 @@ Quality Assurance
 ## Comments  
 Fuzzy testing tool.
 ## Resources
-https://www.npmjs.com/package/fuzzy-testing
-JSFuzz – javascript: https://www.npmjs.com/package/jsfuzz
-Solidity Scribble: https://docs.scribble.codes/ 
+https://www.npmjs.com/package/fuzzy-testing<br>
+JSFuzz – javascript <br> 
+https://www.npmjs.com/package/jsfuzz <br>
+Solidity Scribble <br>
+https://docs.scribble.codes/ 
 <br>
 <br>
 <br>
@@ -588,7 +590,7 @@ Security, Penetration test
 ## Comments 
 It is a customizable API attack tool that takes an API specification as an input and generates and runs attacks based on it as an output.
 ## Resources
-Imperva’s Automatic API Attack Tool – Github
+Imperva’s Automatic API Attack Tool – Github <br>
 https://github.com/imperva/automatic-api-attack-tool 
 <br>
 <br>
@@ -617,7 +619,7 @@ This capability may be in the same group as the one provided by: <br>
 . ZAP (OWASP)
 . Burp Suite
 ## Resources
-Burp Suite
+Burp Suite <br>
 https://portswigger.net/
 <br>
 <br>
@@ -643,7 +645,7 @@ Feature Flagging. A/B Testing Platform	Open Sourced
 ## Comments
 It is a Feature Flagging tool similar to LaunchDarkly.
 ## Resources
-A/B Testing Platform	
+A/B Testing Platform  <br>	
 https://github.com/growthbook/growthbook
 <br>
 <br>
@@ -788,7 +790,7 @@ Source code quality. Quality assurance
 ## Comments 
 It is an Open-source error tracking that helps developers monitor and fix crashes in real time. Iterate continuously. Boost efficiency. Improve user experience.	
 ## Resources
-https://docs.sentry.io/
+https://docs.sentry.io/ <br>
 Sentry + Microsoft Azure DevOps: Error-Tracking, Crash-Reporting, & More <br>
 https://blog.sentry.io/2018/09/18/sentry-azure-devops-integration-update
 <br>
@@ -812,8 +814,8 @@ Governance. Source code quality.
 It implements compilation assertion rules to static code packages. Application architecture and Project structure code analyser based on flexible architecture principle rules. It can check that packages do not include or have static dependencies with libraries from other packages. Each of the packages is meant to be deployable code based for different modules of the architecture.	
 ## Resources
 Java Library (Original Project) <br> 
-https://www.archunit.org/   <br>  
-.Net Library  <br> 
+https://www.archunit.org/ <br>  
+the .Net Library  <br> 
 https://github.com/BenMorris/NetArchTest/tree/master   <br> 
 NodeJS Library <br> 
 https://github.com/manjericao/ArchUnitNode 
