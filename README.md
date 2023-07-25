@@ -449,6 +449,7 @@ https://github.com/intuit/karate/
 <br>
 # LangChain Evaluation Test
 ## Category 
+Regression test
 ## Description 
 LangChain Tests help demonstrate each component in an LLM application can produce the required or expected functionality. These tests also safeguard against regressions while you improve interconnected pieces of an integrated system. LangChain exposes different types of evaluators for common types of evaluation. Each type has off-the-shelf implementations you can use to get started and an extensible API to create your own. <br>
 The following sections have example notebooks for you to get started.<br>
