@@ -447,6 +447,19 @@ https://github.com/intuit/karate/
 <br>
 <br>
 <br>
+# LangChain Evaluation Test
+## Category 
+## Description 
+LangChain Tests help demonstrate each component in an LLM application can produce the required or expected functionality. These tests also safeguard against regressions while you improve interconnected pieces of an integrated system. LangChain exposes different types of evaluators for common types of evaluation. Each type has off-the-shelf implementations you can use to get started and an extensible API to create your own. <br>
+The following sections have example notebooks for you to get started.<br>
+. String Evaluators: Evaluate the predicted string for a given input, usually against a reference string.<br>
+. Trajectory Evaluators: Evaluate the whole trajectory of agent actions. <br>
+. Comparison Evaluators: Compare predictions from two runs on a common input.<br>
+## Resources
+https://python.langchain.com/docs/guides/evaluation
+<br>
+<br>
+<br>
 # Microcks
 ## Category 
 Kafka integration automated regression test.
