@@ -327,7 +327,8 @@ https://anchore.com/opensource/
 <br>
 <br>
 # Clair
-## Category Security, Reliability, Docker containers vulnerability scanning.
+## Category 
+Security, Reliability, Docker containers vulnerability scanning.
 ## Description
 This capability may be in the same group as the one provided by: <br>
 . Anchore <br>
