@@ -785,7 +785,8 @@ https://github.com/liquibase/liquibase/
 <br>
 <br>
 # Renovate
-## Category Source code quality
+## Category 
+Source code quality
 ## Description 
 It is an enhanced version of what dependabot does. It is an open-source tool that automatically creates pull requests for all dependency updates. Includes crowdsourced test and package adoption data used to flag potentially risky updates and enable auto-merging for those that meet user-defined conditions.
 It Scans your repos to detect dependencies (wide package manager support). It Checks if any newer versions exist. And then Raises PRs for available updates.
