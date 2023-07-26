@@ -23,8 +23,8 @@ It extends DevOps by integrating security practices throughout the development l
 It ensures security is integral to architecture, seamlessly integrating security controls into development and deployment.
 <br>
 <br>
-**Architecture Governance** <br>
-DevOps and DevSecOps enable Architects to implement robust frameworks by automating processes and ensuring compliance with policies, minimizing errors and delays. <br>
+### Architecture Governance
+DevOps and DevSecOps enable Architects to implement robust frameworks by automating processes and ensuring policy compliance, minimizing errors and delays. <br>
 DevSecOps allows addressing security concerns early, ensuring secure application design and compliance with regulations. <br>
 <br>
 Embracing DevOps and DevSecOps enables Architects to foster a culture of collaboration, efficiency, and security, enhancing governance and project success.
