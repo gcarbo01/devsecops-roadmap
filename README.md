@@ -37,7 +37,7 @@ Each tool may be applicable for one or more capabilities. So they are tagged by 
 <br>
 <br>
 # References
-There are curated lists on the internet that can be taken as a reference also and see if there are interesting tools.<br>
+There are curated lists on the internet that can be taken as a reference also and see if there are interesting tools.<br><br>
 **DevSecOps links** <br>
 https://github.com/TaptuIT/awesome-devsecops <br>
 https://github.com/sottlmarek/DevSecOps <br>
