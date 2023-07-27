@@ -284,7 +284,7 @@ See the “Work Item Tracking” section.
 Source code quality
 ## Description
 Natural Docs is an open-source documentation generator for code written in multiple programming languages. <br>
-Its generated documentation is pretty and powerful, with three independent scrolling panels, dynamic menus, search, and pop-up summaries when you hover over links.  <br>
+Its generated documentation is pretty and powerful. It can create comments inline. It can create comments in Word documents, pdf, Latex, and HTML, with three independent scrolling panels, dynamic menus, search, and pop-up summaries when you hover over links.  <br>
 Natural Docs lets you document code written in 21 programming languages.
 ## Resources
 https://www.naturaldocs.org/  <br>
