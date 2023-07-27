@@ -37,7 +37,7 @@ Each tool may be applicable for one or more capabilities. So they are tagged by 
 <br>
 <br>
 # References
-There are curated lists on the internet that can be taken as a reference also and see if there are interesting tools.<br><br>
+There are curated lists on the internet that can also be taken as a reference to see if there are interesting tools.<br><br>
 **DevSecOps links** <br>
 https://github.com/TaptuIT/awesome-devsecops <br>
 https://github.com/sottlmarek/DevSecOps <br>
@@ -53,10 +53,16 @@ https://github.com/eon01/DevOpsLinks-Is-Awesome <br>
 https://github.com/marketplace <br>
 <br>
 **Security Tools – mega list collection**<br>
-https://linuxsecurity.expert/security-tools/<br> 
+https://linuxsecurity.expert/security-tools/ <br> 
 <br>
-**OWASP list – Security Tools**<br>
-https://owasp.org/www-community/Source_Code_Analysis_Tools
+**OWASP Security Tools List**<br>
+https://owasp.org/www-community/Source_Code_Analysis_Tools <br> 
+<br>
+**National Institute of Standards and Technology (NIST) - Static Code Analyzer List**  <br> 
+https://www.nist.gov/itl/ssd/software-quality-group/source-code-security-analyzers <br> 
+<br>
+***Wikipedia - Static Code Analyzer List***  <br> 
+https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis  <br> 
 <br>
 <br>
 <br>
