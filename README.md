@@ -55,6 +55,9 @@ https://github.com/marketplace <br>
 **Security Tools – mega list collection**<br>
 https://linuxsecurity.expert/security-tools/<br> 
 <br>
+**OWASP list – Security Tools**<br>
+https://owasp.org/www-community/Source_Code_Analysis_Tools
+<br>
 <br>
 <br>
 # Sonarqube 
