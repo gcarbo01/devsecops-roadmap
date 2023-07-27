@@ -956,10 +956,31 @@ Open Source License compliance checker.. WhiteSource automates the entire open s
 This capability may be in the same group as the one provided by:<br>
 . Fossology   <br>
 . WhiteSource   <br>
+<br>
 ## Resources
 Read more about open-source license concerns: <br>
 https://softwareengineering.stackexchange.com/questions/47032/can-i-use-gpl-software-in-a-commercial-application <br>
-https://www.whitesourcesoftware.com/
+https://www.whitesourcesoftware.com/  <br>
+<br>
+<br>
+<br>
+# ScanCode
+## Category 
+Compliance	
+## Description
+It detects licenses, copyrights, and dependencies by "scanning code". It discovers and inventory open-source and third-party packages used in your code. <br>
+ScanCode uses a number of different databases to check licenses. These databases include: <br>
+. SPDX: The SPDX License Database is a standard format for describing software licenses. ScanCode uses the SPDX License Database to identify the licenses that are used in codebases.  <br>
+. Open Hub: Open Hub is a database of open source components and their licenses. ScanCode uses Open Hub to identify the components that are used in codebases and their licenses.  <br>
+. GitHub: GitHub is a code hosting platform that hosts a large number of open source projects. ScanCode uses GitHub to identify the components that are used in codebases and their licenses.  <br>
+## Resources
+GitHub Repository  <br>
+https://github.com/nexB/scancode-toolkit  <br>
+Documentation  <br>
+https://scancode-toolkit.readthedocs.io/en/stable/  <br>
+Sponsors  <br>
+https://opencollective.com/aboutcode  <br>
+https://www.nexb.com/scancode/  <br>
 <br>
 <br>
 <br>
