@@ -279,6 +279,33 @@ See the “Work Item Tracking” section.
 <br>
 <br>
 <br>
+# Natural Docs
+## Category 
+Source code quality
+## Description
+Natural Docs is an open-source documentation generator for code written in multiple programming languages. <br>
+Its generated documentation is pretty and powerful, with three independent scrolling panels, dynamic menus, search, and pop-up summaries when you hover over links.  <br>
+Natural Docs lets you document code written in 21 programming languages.
+## Resources
+https://www.naturaldocs.org/  <br>
+https://www.naturaldocs.org/features/output/
+https://en.wikipedia.org/wiki/Natural_Docs  <br>
+https://dbmstools.com/tools/natural-docs  <br>
+<br>
+<br>
+<br>
+# Backstage
+## Category 
+Governance. Developer Portal
+## Description
+Backstage is an open platform for building developer portals. Backstage restores order to your infrastructure and enables your product teams to ship high-quality code quickly — without compromising autonomy. It provides the main advantage of a centralized software catalogue for large organisations. It provides a plugin architecture, and there are many plugins available to embed data or functionality from other platforms.<br>
+## Resources
+https://backstage.io/ <br>
+https://backstage.io/plugins  <br>
+https://github.com/backstage/backstage <br>
+<br>
+<br>
+<br>
 # OpenSCAP
 ## Category 
 Container scanning
