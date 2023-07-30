@@ -1099,8 +1099,8 @@ https://www.npmjs.com/package/mermaid
 ## Category 
 Governance, Operations, Enterprise asset management, Documentation. 
 ## Description 
-The Backstage Software Catalog is a centralized system that keeps track of ownership and metadata for all the software in your ecosystem (services, websites, libraries, data pipelines, etc). The catalog is built around the concept of metadata files stored together with the code, which are then harvested and visualized in Backstage.
-The Software Templates is a tool that can help you create Components inside Backstage. By default, it has the ability to load skeletons of code, template in some variables, and then publish the template to some locations like GitHub or GitLab.
+The Backstage Software Catalog is a centralized system that keeps track of ownership and metadata for all the software in your ecosystem (services, websites, libraries, data pipelines, etc). The catalog is built around the concept of metadata files stored together with the code, which are then harvested and visualized in Backstage. <br>
+The Software Templates is a tool that can help you create Components inside Backstage. By default, it has the ability to load skeletons of code, template in some variables, and then publish the template to some locations like GitHub or GitLab. <br>
 The tool also allows the creation of a Catalog Graph of architecture elements in C4 format.
 ## Resources
 Backstage Software Catalog <br>
@@ -1112,7 +1112,7 @@ https://backstage.io/docs/features/software-catalog/creating-the-catalog-graph <
 <br>
 <br>
 <br>
-# Software Visualiation - Graph
+# Software Visualisation - Graph
 ## Category 
 Governance, Operations, Enterprise asset management, Documentation.  <br>
 ## Description 
