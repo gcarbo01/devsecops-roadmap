@@ -1112,11 +1112,12 @@ https://backstage.io/docs/features/software-catalog/creating-the-catalog-graph <
 <br>
 <br>
 <br>
-# Software Visualisation - Graph
+# C4 - Software Visualisation - Graph
 ## Category 
 Governance, Operations, Enterprise asset management, Documentation.  <br>
 ## Description 
 The C4 model is a standard for creating visualising representation of software architecture, Context, Containers, Components, and Code. <br>
+C4 stands for: Context, Container, Component, Code.  <br>
 ## Resources
 C4 model <br>
 https://c4model.com/ <br>
