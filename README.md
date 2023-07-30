@@ -1095,6 +1095,72 @@ https://www.npmjs.com/package/mermaid
 <br>
 <br>
 <br>
+# Backstage - Software Catalogue
+## Category 
+Governance, Operations, Enterprise asset management, Documentation. 
+## Description 
+The Backstage Software Catalog is a centralized system that keeps track of ownership and metadata for all the software in your ecosystem (services, websites, libraries, data pipelines, etc). The catalog is built around the concept of metadata files stored together with the code, which are then harvested and visualized in Backstage.
+The Software Templates is a tool that can help you create Components inside Backstage. By default, it has the ability to load skeletons of code, template in some variables, and then publish the template to some locations like GitHub or GitLab.
+The tool also allows the creation of a Catalog Graph of architecture elements in C4 format.
+## Resources
+Backstage Software Catalog <br>
+https://backstage.io/docs/features/software-catalog/ <br>
+Backstage Software Templates <br>
+https://backstage.io/docs/features/software-templates/  <br>
+Software Catalog Graph  <br>
+https://backstage.io/docs/features/software-catalog/creating-the-catalog-graph <br>
+<br>
+<br>
+<br>
+# Software Visualiation - Graph
+## Category 
+Governance, Operations, Enterprise asset management, Documentation.  <br>
+## Description 
+The C4 model is a standard for creating visualising representation of software architecture, Context, Containers, Components, and Code. <br>
+## Resources
+C4 model <br>
+https://c4model.com/ <br>
+<br>
+<br>
+<br>
+
+# Data Catalogue
+## Category 
+Governance, Operations, Enterprise asset management, Documentation. 
+## Description 
+Data catalogs help data analysts, scientists and engineers find, comprehend, trust, and work together on data. Deploying a data catalog tool is a sign that an organization is taking steps to break down data silos and enable data democratization. Data can be easily find useful data with powerful discovery features, properly understand what they’re using thanks to metadata enhancement and authoring tools, and make data-informed decisions with confidence as a result of history tracking and duplication detection.
+## Resources
+Apache Atlas - open-source data catalog
+Open-source metadata and big data governance framework  <br>
+https://atlas.apache.org/ <br>
+<br>
+Datahub - LinkedIn <br>
+Open-Source Tool for Data Discovery, Catalog, and Metadata Management <br>
+https://datahub.io/ <br>
+<br>
+Amundsen - Lyft - Open source data discovery and metadata engine <br>
+Open Source data Catalog, Architecture metadata <br>
+https://www.amundsen.io/ <br>
+<br>
+Netflix - Metacat  <br>
+Open Source Federated Metadata Service for Data Discovery <br>
+https://github.com/Netflix/metacat <br>
+<br>
+Open Source Federated Metadata Service for Data Discovery <br>
+Magda - Federated, open-source data catalog <br>
+https://magda.io/ <br>
+<br>
+OpenMetadata <br>
+Open-source metadata store, data cataloging, discovery, and collaboration  <br>
+https://open-metadata.org/ <br>
+<br>
+Open Data Discovery <br>
+Open Source data cataloging and discovery tool <br>
+https://opendatadiscovery.org/ <br>
+<br>
+<br>
+<br>
+
 # iServer integration
 Enterprise asset management (EAM) - Diagrams as code
 ## Category 
@@ -1246,7 +1312,10 @@ Security, CSPM	Cloud Security Posture Management (CSPM)
 ## Description 
 GraphQL API + Security for AWS, Azure, GCP, and K8s
 ## Resources
-https://github.com/cloudgraphdev/cli 
+Cloudgraph <br>
+The GraphQL API for AWS, Azure, GCP, and K8s <br>
+https://www.cloudgraph.dev/ <br>
+https://github.com/cloudgraphdev/cli  <br>
 <br>
 <br>
 <br>
