@@ -294,18 +294,7 @@ https://dbmstools.com/tools/natural-docs  <br>
 <br>
 <br>
 <br>
-# Backstage
-## Category 
-Governance. Developer Portal
-## Description
-Backstage is an open platform for building developer portals. Backstage restores order to your infrastructure and enables your product teams to ship high-quality code quickly — without compromising autonomy. It provides the main advantage of a centralized software catalogue for large organisations. It provides a plugin architecture, and there are many plugins available to embed data or functionality from other platforms.<br>
-## Resources
-https://backstage.io/ <br>
-https://backstage.io/plugins  <br>
-https://github.com/backstage/backstage <br>
-<br>
-<br>
-<br>
+
 # OpenSCAP
 ## Category 
 Container scanning
@@ -1095,13 +1084,14 @@ https://www.npmjs.com/package/mermaid
 <br>
 <br>
 <br>
+
 # Backstage - Software Catalogue
 ## Category 
 Governance, Operations, Enterprise asset management, Documentation. 
 ## Description 
-The Backstage Software Catalog is a centralized system that keeps track of ownership and metadata for all the software in your ecosystem (services, websites, libraries, data pipelines, etc). The catalog is built around the concept of metadata files stored together with the code, which are then harvested and visualized in Backstage. <br>
-The Software Templates is a tool that can help you create Components inside Backstage. By default, it has the ability to load skeletons of code, template in some variables, and then publish the template to some locations like GitHub or GitLab. <br>
-The tool also allows the creation of a Catalog Graph of architecture elements in C4 format.
+Backstage is an open platform for building developer portals. It is known because it provides functionality to build a Software Catalog, which is a centralized system that keeps track of ownership and metadata for all the software in your ecosystem (services, websites, libraries, data pipelines, etc). The catalog is built around the concept of metadata files stored together with the code, which are then harvested and visualized in Backstage. The Software Templates are used to create Components inside Backstage. By default, it has the ability to load skeletons of code, template in some variables, and then publish the template to some locations like GitHub or GitLab. <br>
+It also allows the creation of a Catalog Graph of architecture elements in C4 format. <br>
+It provides a plugin architecture, and there are many plugins available to embed data or functionality from other platforms. <br>
 ## Resources
 Backstage Software Catalog <br>
 https://backstage.io/docs/features/software-catalog/ <br>
@@ -1109,9 +1099,12 @@ Backstage Software Templates <br>
 https://backstage.io/docs/features/software-templates/  <br>
 Software Catalog Graph  <br>
 https://backstage.io/docs/features/software-catalog/creating-the-catalog-graph <br>
+Software Plugins  <br>
+https://backstage.io/plugins  <br>
 <br>
 <br>
 <br>
+
 # C4 - Software Visualisation - Graph
 ## Category 
 Governance, Operations, Enterprise asset management, Documentation.  <br>
