@@ -1227,7 +1227,7 @@ DoBetterAsCode  Tools and ## Resources  https://dobetterascode.com/resources/
 <br>
 # Sigstore
 ## Category 
-Security, Supply chain security	Sigstore
+Security, Supply chain security
 ## Description
 It is a set of free-to-use and open-source tools, including fulcio, cosign and rekor, handling digital signing, verification and checks for provenance needed to make it safer to distribute and use open-source software	
 ## Resources
