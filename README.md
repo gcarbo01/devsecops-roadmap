@@ -868,7 +868,7 @@ https://www.archunit.org/ <br>
 the .Net Library  <br> 
 https://github.com/BenMorris/NetArchTest/tree/master   <br> 
 NodeJS Library <br> 
-https://github.com/manjericao/ArchUnitNode 
+https://github.com/manjericao/ArchUnitNode    <br> 
 TypeScript & JS Library <br> 
 https://github.com/ts-arch/ts-arch
 <br>
