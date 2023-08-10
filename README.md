@@ -1393,4 +1393,17 @@ https://www.dbunit.org/intro.html
 <br>
 <br>
 <br>
+# Cloud Carbon Footprint
+## Category 
+Carbon footprint, GreenDevOps,  Environmental, Social and corporate Governance (ESG)
+## Description
+Cloud Carbon Footprint is a tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage
+## Description
+Cloud Carbon Footprint is a tool that helps DevSecOps teams measure and reduce the carbon emissions of their cloud applications and infrastructure. It is an open-source project developed by ThoughtWorks.
+## Resources
+cloud-carbon-footprint tool<br>
+https://github.com/cloud-carbon-footprint/cloud-carbon-footprint
+<br>
+<br>
+<br>
 --End of the file--
